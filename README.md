@@ -16,3 +16,4 @@ it-career-path-chatbot/
 │  └─ app/          # 4. LLM 대화/로직 (백엔드)
 │     └─ chatbot_core.py
 ├─ streamlit_app.py   # 4. Streamlit UI 엔트리 포인트
+#123

@@ -1,0 +1,603 @@
+[
+{
+  "job_role": "시스템개발 (백엔드 및 데이터엔지니어)",
+  "company": "삼화페인트공업㈜",
+  "requirements_text": "유사업무 경력 2년 이상",
+  "responsibilities_text": "백엔드 및 데이터엔지니어\nERP 개발",
+  "raw_description": "시스템개발\n- 백엔드 및 데이터엔지니어\n- ERP 개발\n\n[자격 요건]\n- 유사업무 경력 2년 이상\n\n[우대 사항]\n- IT 계열 전공자 및 IT 자격증 보유자\n- 백엔드 개발 및 DW, ETL 개발\n- 데이터 전처리 및 Airflow 운영\n- Python 기반 웹 개발 및 DevOps 이해",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48176393?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "백엔드 개발자",
+  "company": "㈜레진엔터테인먼트",
+  "requirements_text": "7년 이상의 백엔드(Java/Kotlin) 개발 경력을 보유하신 분\nSpring Boot 기반 MSA 설계/개발/운영 경험을 보유하신 분\nMongoDB, MySQL/Aurora, RDS 등 다양한 DB 경험을 보유하신 분\nKafka or 메시징 큐(RabbitMQ, SNS/SQS 등)를 활용한 비동기 구조 설계 경험을 보유하신 분\nAWS 서비스(EKS, S3, Lambda, CloudFront 등) 실무 경험을 보유하신 분\nDocker 및 Kubernetes 환경에서의 배포/운영 경험을 보유하신 분\n성능 최적화, 장애 분석 및 로깅/모니터링 경험을 보유하신 분",
+  "responsibilities_text": "숏폼 플랫폼 백엔드 기능 개발 및 유지보수 업무",
+  "raw_description": "백엔드 개발자\n\n[담당업무]\n- 숏폼 플랫폼 백엔드 기능 개발 및 유지보수 업무\n\n[자격요건]\n- 7년 이상의 백엔드(Java/Kotlin) 개발 경력을 보유하신 분\n- Spring Boot 기반 MSA 설계/개발/운영 경험을 보유하신 분\n- MongoDB, MySQL/Aurora, RDS 등 다양한 DB 경험을 보유하신 분\n- Kafka or 메시징 큐(RabbitMQ, SNS/SQS 등)를 활용한 비동기 구조 설계 경험을 보유하신 분\n- AWS 서비스(EKS, S3, Lambda, CloudFront 등) 실무 경험을 보유하신 분\n- Docker 및 Kubernetes 환경에서의 배포/운영 경험을 보유하신 분\n- 성능 최적화, 장애 분석 및 로깅/모니터링 경험을 보유하신 분",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48221695?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "ERP 운영",
+  "company": "삼화페인트공업㈜",
+  "requirements_text": "IT 관련 경험 보유자",
+  "responsibilities_text": "ERP 시스템 유지보수 및 기능개선\n사용자 및 현업 지원",
+  "raw_description": "ERP 운영\n\n- ERP 시스템 유지보수 및 기능개선\n- 사용자 및 현업 지원\n\n[자격 요건]\n- IT 관련 경험 보유자\n\n[우대 사항]\n- IT 계열 전공자 및 IT 자격증 보유자\n- ERP 및 기업 전산 운영\n- 파워빌더, 4GL, Oracle PL/SQL 활용",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48176393?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "IT기획",
+  "company": "삼화페인트공업㈜",
+  "requirements_text": "유사 업무 경력 2년 이상",
+  "responsibilities_text": "IT 거버넌스 및 정보보호 정책 기획\n중장기 전략 및 실행계획 수립",
+  "raw_description": "IT기획\n\n- IT 거버넌스 및 정보보호 정책 기획\n- 중장기 전략 및 실행계획 수립\n\n[자격 요건]\n- 유사 업무 경력 2년 이상\n\n[우대 사항]\n- IT 계열 전공자 및 IT 자격증 보유자\n- IT시스템 서비스 기획/운영\n- ERP 시스템 개발/운영",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48176393?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "데이터분석(DA)",
+  "company": "현대해상",
+  "requirements_text": "데이터 분석 업무 경력 4년 이상자",
+  "responsibilities_text": "생성형 AI 관련 현업 비즈니스 요구사항 분석\n보험 특화 생성형 AI 모델 개발 및 서비스 연계\n파인튜닝 / RAG 등 모델 최적화 및 성능 관리",
+  "raw_description": "데이터분석(DA)\n\n- 생성형 AI 관련 현업 비즈니스 요구사항 분석\n- 보험 특화 생성형 AI 모델 개발 및 서비스 연계\n- 파인튜닝 / RAG 등 모델 최적화 및 성능 관리\n\n[지원자격]\n- 데이터 분석 업무 경력 4년 이상자\n\n[필요역량 및 우대사항]\n- 생성형 AI 서비스 개발 프로젝트 참여 경험\n- LLM API 호출, RAG, 프롬프트 엔지니어링 및 최적화 경험\n- LLM 프레임워크(LangChain, LlamaIndex) 활용 경험\n- 대용량 데이터 활용 ML/DL 모델링 및 서비스 개발 경험\n- Python, SQL 등 활용 역량\n- (우대) 도메인 AI Agent 구축 또는 Agentic AI 프로젝트 참여 경험\n- (우대) 금융권 대용량 데이터 분석/모델링 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215156?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "데이터 엔지니어링(DE)",
+  "company": "현대해상",
+  "requirements_text": "데이터 엔지니어링 업무 경력 4년 이상자",
+  "responsibilities_text": "전사 통합 데이터 플랫폼 구축 및 운영\n데이터 파이프라인 개발 및 최적화\n데이터 품질관리 체계 수립 및 모니터링",
+  "raw_description": "데이터 엔지니어링(DE)\n\n- 전사 통합 데이터 플랫폼 구축 및 운영\n- 데이터 파이프라인 개발 및 최적화\n- 데이터 품질관리 체계 수립 및 모니터링\n\n[지원자격]\n- 데이터 엔지니어링 업무 경력 4년 이상자\n\n[필요역량 및 우대사항]\n- 데이터 파이프라인 설계 및 운영 경험\n- Python, Java, Scala 중 1개 이상 숙련\n- 대용량 분산처리 시스템 구축/운영 역량\n- (우대) 데이터 거버넌스(정책/표준/영역) 수립 및 운영 경험\n- (우대) AWS, GCP, Azure 등 클라우드 플랫폼 활용 경험\n- (우대) Docker, Kubernetes 컨테이너 환경 구축 경험\n- (우대) 실시간 스트리밍 데이터, CDC 처리 경험\n- (우대) 금융권 대용량 데이터 엔지니어링 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215156?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "머신러닝 엔지니어링(MLE)",
+  "company": "현대해상",
+  "requirements_text": "머신러닝 엔지니어링 업무 경력 4년 이상자",
+  "responsibilities_text": "AI/ML 플랫폼 개발 및 운영\nGPU 기반 AI 인프라 & 개발/실험 환경 구축 및 운영\nAI 서비스 운영 안정성 및 성능 최적화",
+  "raw_description": "머신러닝 엔지니어링(MLE)\n\n- AI/ML 플랫폼 개발 및 운영\n- GPU 기반 AI 인프라 & 개발/실험 환경 구축 및 운영\n- AI 서비스 운영 안정성 및 성능 최적화\n\n[지원자격]\n- 머신러닝 엔지니어링 업무 경력 4년 이상자\n\n[필요역량 및 우대사항]\n- Python 기반 AI/ML 서비스 개발 및 운영 경험\n- AI 공통 프레임워크 개발 및 관리 경험\n- (우대) LLM/MLOps 플랫폼 구축 및 운영 경험\n- (우대) LLM 기반 Agent Workflow 설계 및 구현\n- (우대) GPU 기반 클라우드 및 Kubernetes 환경 구축/운영 경험\n- (우대) Vector DB 구축 등 RAG 파이프라인 End-to-End 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215156?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "소프트웨어 개발",
+  "company": "현대해상",
+  "requirements_text": "소프트웨어 개발 경력 5년 이상자",
+  "responsibilities_text": "소프트웨어 개발 및 업무 프로세스 관리\n대고객 서비스 시스템 및 사내 업무시스템\n전사 공통 프레임워크 개발 및 관리\n전사 IT 기술 스택 고도화",
+  "raw_description": "소프트웨어 개발\n\n- 소프트웨어 개발 및 업무 프로세스 관리\n- 대고객 서비스 시스템 및 사내 업무시스템\n- 전사 공통 프레임워크 개발 및 관리\n- 전사 IT 기술 스택 고도화\n\n[지원자격]\n- 소프트웨어 개발 경력 5년 이상자\n\n[필요역량 및 우대사항]\n- Java, Spring 기반 백엔드 시스템 개발 역량\n- (우대) Docker, Kubernetes 등 컨테이너 환경 DevOps 경험\n- (우대) Apache Spark 등 분산 컴퓨팅 환경 application 개발 경험\n- (우대) Micro Service Architecture 기반 서비스 개발 경험\n- (우대) React, Angular 등 프론트 기술 활용 application 개발 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215156?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "서비스 기획",
+  "company": "현대해상",
+  "requirements_text": "앱/웹 서비스기획 및 운영 경력 8년 이상자",
+  "responsibilities_text": "대고객 서비스(앱/웹) 기획\n보험/금융/헬스케어 서비스",
+  "raw_description": "서비스 기획\n\n- 대고객 서비스(앱/웹) 기획\n- 보험/금융/헬스케어 서비스\n\n[지원자격]\n- 앱/웹 서비스기획 및 운영 경력 8년 이상자\n\n[필요역량 및 우대사항]\n- 서비스 출시, 운영 등 기획 역량\n- (우대) 금융/핀테크/커머스/헬스케어 도메인 서비스 경험\n- (우대) GA4, Tableau 등 데이터 분석 툴 활용 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215156?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "UX/UI",
+  "company": "현대해상",
+  "requirements_text": "서비스 기획 또는 UX/UI 경력 4년 이상자",
+  "responsibilities_text": "앱/웹 서비스 UX/UI 가이드라인 제작 및 운영\n사용자 여정 기반 UX 설계 및 화면 기획",
+  "raw_description": "UX/UI\n\n- 앱/웹 서비스 UX/UI 가이드라인 제작 및 운영\n- 사용자 여정 기반 UX 설계 및 화면 기획\n\n[지원자격]\n- 서비스 기획 또는 UX/UI 경력 4년 이상자\n\n[필요역량 및 우대사항]\n- 프로토타이핑 툴(Figma 등) 활용 역량\n- (우대) 금융/핀테크/커머스/헬스케어 도메인 서비스 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215156?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "ALM전략",
+  "company": "현대해상",
+  "requirements_text": "ALM/자산배분/리스크관리 또는 계리모델링 경력 5년 이상자",
+  "responsibilities_text": "자산/부채 현금흐름 분석 및 ALM 영향도 산출\n유동성 갭분석 및 Stress test 운영 지원\n계리가정 기반 부채변경 고도화 지원",
+  "raw_description": "ALM전략\n\n- 자산/부채 현금흐름 분석 및 ALM 영향도 산출\n- 유동성 갭분석 및 Stress test 운영 지원\n- 계리가정 기반 부채변경 고도화 지원\n\n[지원자격]\n- ALM/자산배분/리스크관리 또는 계리모델링 경력 5년 이상자\n\n[필요역량 및 우대사항]\n- 현금흐름/민감도 분석 및 데이터 모델링 역량\n- IFRS17, K-ICS 기준 요구자본 관리 역량\n- (우대) 보험계리사 또는 CFA/FRM 자격보유자\n- (우대) Python/R/VBA 기반 분석 자동화 업무 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215156?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "IT인프라 기획",
+  "company": "현대해상",
+  "requirements_text": "IT인프라 기획/아키텍처 경력 4년 이상자",
+  "responsibilities_text": "AI/빅데이터 등 신규 서비스 도입 인프라 아키텍처 설계 및 구축\n서버, 스토리지, 네트워크 등 핵심 인프라 구성 기획 및 운영관리\n클라우드 전환 추진을 위한 시스템 분석 및 아키텍처 수립",
+  "raw_description": "IT인프라 기획\n\n- AI/빅데이터 등 신규 서비스 도입 인프라 아키텍처 설계 및 구축\n- 서버, 스토리지, 네트워크 등 핵심 인프라 구성 기획 및 운영관리\n- 클라우드 전환 추진을 위한 시스템 분석 및 아키텍처 수립\n\n[지원자격]\n- IT인프라 기획/아키텍처 경력 4년 이상자\n\n[필요역량 및 우대사항]\n- 시스템 아키텍처 설계 및 프로젝트 추진 경험\n- On-prem 데이터센터 기술, 클라우드(AWS, Azure 등) 및 가상화 네트워크 운영 경험\n- (우대) 금융사 IT인프라 기획 및 시스템 아키텍처 설계 경험\n- (우대) AWS Certified Solutions Architect-Professional\n- (우대) Cisco Certified Network Professional\n- (우대) Certified Kubernetes Administrator",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215156?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "PO (Product Owner)",
+  "company": "다이퀘스트",
+  "requirements_text": "학력: 학사 이상\n10년 이상의 PO/PM, 제품 기획, 개발 관리 등 유사 분야 또는 이에 준하는 역량이 있으신 분\nAI, 에듀테크, 생성형AI 등의 기술 이해도가 있으신 분\n상용화 서비스 오픈 경험이 있으신 분\n기술개발/서비스 기획에 대한 높은 도메인 지식과 분석 능력이 있으신 분\n프로젝트 문서와 성과물을 위한 강한 책임감을 가지신 분",
+  "responsibilities_text": "AI 기술을 활용하여 에듀테크 시장에 적합한 신규 프로덕트를 출시/관리합니다\n고객사의 요구를 분석해 명확한 비즈니스 모델과 실행 계획으로 전환할 수 있는 전략 실행을 리드합니다\n시스템 프로덕트의 로드맵 및 지표 수립이 가능합니다\n정량적/정성적 데이터 기반 의사 결정을 합니다\n고객과 시장, 매출 목표와 실행의 전반을 책임집니다",
+  "raw_description": "플랫폼 사업부\nPO (Product Owner)\n\n[주요업무]\n- AI 기술을 활용하여 에듀테크 시장에 적합한 신규 프로덕트를 출시/관리합니다\n- 고객사의 요구를 분석해 명확한 비즈니스 모델과 실행 계획으로 전환할 수 있는 전략 실행을 리드합니다\n- 시스템 프로덕트의 로드맵 및 지표 수립이 가능합니다\n- 정량적/정성적 데이터 기반 의사 결정을 합니다\n- 고객과 시장, 매출 목표와 실행의 전반을 책임집니다\n\n[자격요건]\n- 학력: 학사 이상\n- 10년 이상의 PO/PM, 제품 기획, 개발 관리 등 유사 분야 또는 이에 준하는 역량이 있으신 분\n- AI, 에듀테크, 생성형AI 등의 기술 이해도가 있으신 분\n- 상용화 서비스 오픈 경험이 있으신 분\n- 기술개발/서비스 기획에 대한 높은 도메인 지식과 분석 능력이 있으신 분\n- 프로젝트 문서와 성과물을 위한 강한 책임감을 가지신 분\n\n[우대 사항]\n- AI 분야의 제품 사용화 경험\n- 빠르게 변화하는 조직 또는 스타트업에서의 근무 경험\n- 교육 콘텐츠 관련 상용화 서비스 오픈 경험\n\n[근무조건]\n- 정규직 (수습기간: 3개월)\n- 근무시간: 유연근무제 (시차출퇴근)",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48214310?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "백엔드 개발자 (팀원급)",
+  "company": "다이퀘스트",
+  "requirements_text": "경력: 백엔드 개발 경력 5년 이상\nJava, Spring Framework에 능숙한 개발자\nMariaDB 등의 RDB 사용 경험자\nREST, Websocket 등을 이용한 웹상의 통신 개발 경험자\nRESTful I/F 개발 경험자\nLinux(CentOS, Ubuntu) 상에서 개발 및 GIT 경험자",
+  "responsibilities_text": "AI 기술 및 엔진을 활용한 다양한 고객 서비스 개발 업무",
+  "raw_description": "백엔드 개발자 (팀원급)\n\n[주요업무]\n- AI 기술 및 엔진을 활용한 다양한 고객 서비스 개발 업무\n\n[우리는 이런 사람을 원합니다]\n- 학력: 무관\n- 경력: 백엔드 개발 경력 5년 이상\n\n[자격요건]\n- Java, Spring Framework에 능숙한 개발자\n- MariaDB 등의 RDB 사용 경험자\n- REST, Websocket 등을 이용한 웹상의 통신 개발 경험자\n- RESTful I/F 개발 경험자\n- Linux(CentOS, Ubuntu) 상에서 개발 및 GIT 경험자\n\n[우대사항]\n- 퍼블릭 인공지능 API(ChatGPT, Astra, 이미지생성, 영상생성 등)를 활용한 서비스 개발 경험이 있는 개발자\n- AI 플랫폼 엔지니어링에 대한 이해와 개발 경험이 있는 개발자\n- Redis, MongoDB 등의 사용 경험자\n- SQL, NoSQL 등의 DB 설계 경험자\n- 보안 코딩(Secure Coding) 경험자\n- 클라우드 환경의 이해도가 높고 퍼블릭 클라우드 환경 개발 경험자\n- Elastic Search를 이용한 검색 엔진 개발 경험자\n- Public Cloud Platform(AWS, GCP, Azure), AI, NLP 경험자\n- AWS SA 직무 수행경험 우대\n- devops, CI/CD 빌드/테스트/배포 자동화 환경 경험자 우대",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48214310?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "AI 개발자",
+  "company": "인포플라",
+  "requirements_text": "신입 및 경력\n관련학과 전공\n고객사 방문 및 고객 협의가 어렵지 않은 분\n문제가 해결될 때까지 업무에 몰입하는 분\n해외 출장에 결격사유가 없는 분\n개인 포트폴리오 첨부\n희망연봉 기입자(미기입시 자동 서류탈락됩니다.)",
+  "responsibilities_text": "VLM(Vision Language Model) 및 이를 이용한 AI 자동화 시스템 개발\n시계열 데이터, Object Detection, Anomaly Detection 등 AI 시스템 개발\n학습 데이터 수집, 정제, 학습 및 관련 프로그램 개발",
+  "raw_description": "AI 개발자 (0명)\n\n1. 담당업무\n- VLM(Vision Language Model) 및 이를 이용한 AI 자동화 시스템 개발\n- 시계열 데이터, Object Detection, Anomaly Detection 등 AI 시스템 개발\n- 학습 데이터 수집, 정제, 학습 및 관련 프로그램 개발\n\n2. 스킬\n- Python 중상, PyTorch\n- SQL 등 Backend 개발능력\n- AI 관련 논문 서베이 및 코드 구현 능력\n\n3. 자격요건\n- 신입 및 경력\n- 관련학과 전공\n- 고객사 방문 및 고객 협의가 어렵지 않은 분\n- 문제가 해결될 때까지 업무에 몰입하는 분\n- 해외 출장에 결격사유가 없는 분\n- 개인 포트폴리오 첨부\n- 희망연봉 기입자(미기입시 자동 서류탈락됩니다.)\n\n4. 우대사항\n- 외국어 능통자(뉴욕 Stony Brook 대학 상주 공동개발 진행중, 전세계 전시회 부스 참가)\n- AIOps 경력자\n- C++ 개발능력\n- 석박사 학위 수여자\n- 국내외 운전면허 보유자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215026?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "프론트엔드 개발자",
+  "company": "인포플라",
+  "requirements_text": "신입 및 경력\n관련학과 전공\n고객사 방문 및 고객 협의가 어렵지 않은 분\n문제가 해결될 때까지 업무에 몰입하는 분\n해외 출장에 결격사유가 없는 분\n개인 포트폴리오 첨부\n희망연봉 기입자(미기입시 자동 서류탈락됩니다.)",
+  "responsibilities_text": "웹 애플리케이션 프론트엔드 개발(React/Vue/Next.js)\n모바일 WebView·하이브리드 앱 UI 개발\n반응형 UI 설계 및 사용자 경험 개선\nREST API, Graphql 연동 및 프론트·백엔드 연동 작업\nNginx 기반 프론트 배포 환경 구성",
+  "raw_description": "프론트엔드 개발자 (0명)\n\n1. 담당업무\n- 웹 애플리케이션 프론트엔드 개발(React/Vue/Next.js)\n- 모바일 WebView·하이브리드 앱 UI 개발\n- 반응형 UI 설계 및 사용자 경험 개선\n- REST API, Graphql 연동 및 프론트·백엔드 연동 작업\n- Nginx 기반 프론트 배포 환경 구성\n\n2. 스킬\n- React 또는 Vue 기반 SPA 개발 경험\n- JavaScript / TypeScript 능숙\n- 반응형 UI·Cross-Platform UI 개발 경험\n- REST API 통신 및 상태관리 경험(Graphql, Zustand, Vuex 등)\n- 웹 성능 최적화 기초 지식\n- Git 기반 협업 능력\n- 기본적인 네트워크/웹 구조 이해(HTTP, DNS, Proxy 등)\n\n3. 자격요건\n- 신입 및 경력\n- 관련학과 전공\n- 고객사 방문 및 고객 협의가 어렵지 않은 분\n- 문제가 해결될 때까지 업무에 몰입하는 분\n- 해외 출장에 결격사유가 없는 분\n- 개인 포트폴리오 첨부\n- 희망연봉 기입자(미기입시 자동 서류탈락됩니다.)\n\n4. 우대사항\n- Docker 기반 배포 경험\n- Cloud(AWS/Azure 등) 환경 경험\n- CI/CD(GitHub Actions, Jenkins 등) 자동화 환경 이해\n- PM2 등 서버 배포 경험\n- 백엔드 개발자, 디자이너와 원활한 협업이 가능한 분(API 설계 이해, 요청/응답 구조 이해, 스키마 협의 가능, Figma 이해 가능)\n- 기술 문서화 및 커뮤니케이션에 강점이 있는 분",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215026?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "AI전략파트",
+  "company": "그린카",
+  "requirements_text": "관련학과 전공자(컴퓨터, 인공지능, 데이터 등)\nAI 관련 경력 2년 이상\nPython 기반의 딥러닝 개발(TensorFlow, PyTorch)에 익숙하신 분\nLLM 기반의 에이전트 개발 프레임워크(Longchain, ADK) 경험이 있으신 분\nLLM 기반의 에이전트 서비스 개발 및 배포 경험이 있으신 분\nPython 기반의 백엔드(Flask, Fast API) 개발 경험이 있으신 분\n문제해결력과 커뮤니케이션 역량을 갖추신 분",
+  "responsibilities_text": "C car 서비스의 다양한 AI 서비스 기획 및 개발\nAI를 활용하여 고객 개개인에 맞는 차량을 추천하고 개인화된 메시지를 자동으로 생성하는 서비스 구현\n차량 가동률 최적화, 차량 상태 자동 판단, 고객 메시지 자동 모니터링 등 업무 지능화·자동화\n그 외 사용자 경험을 개선하기 위한 다양한 AI 기능 기획 및 설계",
+  "raw_description": "AI전략파트\n근무지: 선릉(본사)\n\n[이런 업무를 담당해요!]\n- C car 서비스의 다양한 AI 서비스 기획 및 개발\n- AI를 활용하여 고객 개개인에 맞는 차량을 추천, 개인화된 메시지를 자동으로 생성하는 서비스 구현\n- 차량 가동률 최적화, 차량 상태 자동 판단, 고객 메시지 자동 모니터링 등 업무 지능화·자동화\n- 그 외 사용자 경험을 개선하기 위한 다양한 AI 기능 기획 및 설계\n\n[꼭 필요해요!]\n- 관련학과 전공자(컴퓨터, 인공지능, 데이터 등)\n- AI 관련 경력 2년 이상\n- Python 기반의 딥러닝 개발(TensorFlow, PyTorch)에 익숙하신 분\n- LLM 기반의 에이전트 개발 프레임워크(Longchain, ADK) 경험이 있으신 분\n- LLM 기반의 에이전트 서비스 개발 및 배포 경험이 있으신 분\n- Python 기반의 백엔드(Flask, Fast API) 개발 경험이 있으신 분\n- 문제해결력과 커뮤니케이션 역량을 갖추신 분\n\n[이런 분이면 좋겠어요!]\n- 관련학과 석사학위 이상이신 분\n- 관련 산업(모빌리티, 카셰어링, 이커머스) 경험이 있으신 분\n- AI 서비스 운영을 위한 MLOps 환경을 구축하고 운영하신 경험이 있으신 분\n- 다양한 클라우드 플랫폼(AWS, GCP, Azure 등)에서 AI 모델 배포 운영을 해보신 분\n- 강화학습(RL) 관련 프로젝트 경험이 있으신 분\n- 대규모 언어모델(LLM) 활용 경험이 풍부하고 모델 튜닝 수행해보신 분",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48205686?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "서비스정책파트",
+  "company": "그린카",
+  "requirements_text": "대졸 이상\n유관 경력 3년 이상 또는 그에 준하는 역량 보유자",
+  "responsibilities_text": "비즈니스 전략에 따른 서비스 정책 및 운영 프로세스 수립\nVOC 모니터링 및 분석을 통한 인사이트 도출 및 개선\n내/외부 환경 및 시장 트렌드를 분석하여 서비스 개선 방안 설계\nService journey 단계별로 구체적인 개선안을 마련\n데이터 기반 프로세스를 재정립하여 업무 효율성 향상 및 비용 절감\n고객 통제센터(FAQ, 공지사항, 알림톡, RCS 등) 고도화\n유관부서와 협업하여 프로젝트 리딩 및 이슈 관리\n약관, 운영정책 검토 및 관리하여 기업 리스크 예방",
+  "raw_description": "서비스정책파트\n근무지: 선릉(본사)\n\n[이런 업무를 담당해요!]\n- 비즈니스 전략에 따른 서비스 정책 및 운영 프로세스 수립\n- VOC 모니터링 및 분석을 통한 인사이트 도출 및 개선\n- 내/외부 환경 및 시장 트렌드를 분석하여 서비스 개선 방안 설계\n- Service journey 단계별로 구체적인 개선안을 마련\n- 데이터 기반 프로세스를 재정립하여 업무 효율성 향상, 비용 절감\n- 고객 통제센터(FAQ, 공지사항, 알림톡, RCS 등) 고도화\n- 유관부서와 협업하여 프로젝트 리딩 및 이슈 관리\n- 약관, 운영정책 검토 및 관리하여 기업 리스크 예방\n\n[꼭 필요해요!]\n- 대졸 이상\n- 유관 경력 3년 이상 또는 그에 준하는 역량 보유자\n\n[이런 분이면 좋겠어요!]\n- CX/UX 개선 프로젝트를 3년 이상 직접 리딩하거나 실질적으로 운영해본 경험이 있으신 분\n- VOC 분석을 기반으로 다양한 분야의 프로세스를 개선하거나, 고객경험을 설계한 경험이 3년 이상 있으신 분\n- 데이터 기반으로 문제를 분석하고 실행력 있는 개선 경험을 보유하신 분\n- SQL, Metabase, 파이썬, Tableau, PowerBI 등 데이터 분석 도구를 사용하여 텍스트·데이터를 효과적으로 분석하거나 시각화한 경험이 있으신 분\n- 조직 내외 다양한 이해관계자와 협업하며 주도적으로 의견을 조율할 수 있으신 분\n- 컨택센터 운영 경험 및 이에 대한 이해도를 보유하신 분\n- 상담톡, 챗봇, 상담 어시스턴트 등 관련 솔루션 도입·설계·운영해본 경험이 있으신 분",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48205686?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "AICC 솔루션 백엔드 개발",
+  "company": "신한투자증권",
+  "requirements_text": "Java(Spring framework 또는 Spring Boot) 기반 Backend 서비스 설계 및 구현 능력\nREST API 설계 및 연동 경험\n협업 및 커뮤니케이션 능력",
+  "responsibilities_text": "AICC 관련 프로젝트 기능 개발 및 유지 보수\nAICC 구축 프로젝트 솔루션 개발 및 기술 지원\n신규 AICC 서비스 및 기능 기술 검토 및 R&D 수행\n시스템 성능 개선 및 안정화 작업\n멀티 모듈 Git 기반 개발 환경 운영",
+  "raw_description": "AICC 솔루션 백엔드 개발\n\n[주요 수행업무 및 역할]\n- AICC 관련 프로젝트 기능 개발 및 유지 보수\n- AICC 구축 프로젝트 솔루션 개발 및 기술 지원\n- 신규 AICC 서비스 및 기능 기술 검토 및 R&D 수행\n- 시스템 성능 개선 및 안정화 작업\n- 멀티 모듈 Git 기반 개발 환경 운영\n\n[필요 역량 및 경험]\n- Java(Spring framework 또는 Spring Boot) 기반 Backend 서비스 설계 및 구현 능력\n- REST API 설계 및 연동 경험\n- 협업 및 커뮤니케이션 능력\n\n[우대 경험]\n- Vue.js, React 등 Frontend 프레임워크 경험\n- AICC, 컨텍센터 관리 시스템(챗봇/음성봇) 연동 경험\n- 퍼블릭 클라우드 기반 서비스 개발 및 운영 경험(AWS, GCP 등)",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48207953?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "물류 IT / WMS 시스템 구축·운영",
+  "company": "삼양로지스틱스",
+  "requirements_text": "WMS 운영 및 구축 경험 3년 이상\n물류 프로세스 전반에 대한 이해(입고, 출고, 재고, 운송 등)\nSAP 또는 타 ERP 시스템과의 인터페이스 설계 및 연동 경험\n시스템 분석/설계 문서 작성 능력(요구사항 정의, 프로세스 정의 등)\nIT 프로젝트 진행 경험(Developer 역할 유경험자)\n커뮤니케이션 및 협업 역량이 뛰어난 분\nNexacro 플랫폼, JAVA, DBMS 프로젝트 유경험자",
+  "responsibilities_text": "WMS 시스템 구축 및 고도화 운영\n물류운영 플랫폼 개발 및 유지보수\nSAP 및 기타 ERP 시스템과의 연동 설계 및 개발\n3PL(3자물류) 시스템과의 인터페이스 개발 및 운영\n물류 운영 프로세스 분석 및 시스템 개선 기획\n물류 관련 시스템 장애 분석 및 대응\n물류 데이터 기반 개선 제안 및 자동화/효율화 업무 추진",
+  "raw_description": "[업무 내용]\n- WMS 시스템 구축 및 고도화 운영\n- 물류운영 플랫폼 개발 및 유지보수\n- SAP 및 기타 ERP 시스템과의 연동 설계 및 개발\n- 3PL(3자물류) 시스템과의 인터페이스 개발 및 운영\n- 물류 운영 프로세스 분석 및 시스템 개선 기획\n- 물류 관련 시스템 장애 분석 및 대응\n- 물류 데이터 기반 개선 제안 및 자동화/효율화 업무 추진\n\n[자격 사항]\n- WMS 운영 및 구축 경험 3년 이상\n- 물류 프로세스 전반에 대한 이해(입고, 출고, 재고, 운송 등)\n- SAP 또는 타 ERP 시스템과의 인터페이스 설계 및 연동 경험\n- 시스템 분석/설계 문서 작성 능력(요구사항 정의, 프로세스 정의 등)\n- IT 프로젝트 진행 경험(Developer 역할 유경험자)\n- 커뮤니케이션 및 협업 역량이 뛰어난 분\n- Nexacro 플랫폼, JAVA, DBMS 프로젝트 유경험자\n\n[우대 사항]\n- 제조/유통/3PL 기업에서 물류 IT 담당 경험\n- SAP SD/MM/WM 모듈 이해 또는 연동 개발 경험\n- Java, Oracle, MS-SQL, Nexacro 등 기반의 시스템 운영 경험\n- EAI, API 기반 연동 시스템 설계/운영 경험\n- 물류 자동화 설비(FMS, Conveyor 등)와의 시스템 연계 경험\n- 물류/SCM 관련 자격증 또는 교육 수료 이력\n- 물류센터 오픈, 운영 안정화 프로젝트 수행 경험자\n- 비즈니스 영어 활용 능력 보유자 우대",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48206593?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "PG 플랫폼 개발",
+  "company": "PG플랫폼개발2팀",
+  "requirements_text": "웹 개발 경력 5년 이상\nSpring Boot 기반 웹 애플리케이션 개발 경험\nRESTful API 설계 및 개발 경험\nMSSQL, MySQL, Oracle 등 RDBMS 활용 능력\nGit 등 형상관리 도구 사용 경험",
+  "responsibilities_text": "PG 관련 대내 업무 시스템 개발 및 유지보수\n결제 서비스 관련 내부 프로세스 지원\n대외 정보 제공을 위한 관리 시스템 구축 및 운영\n업무 자동화 시스템 구현을 통한 효율성 향상",
+  "raw_description": "담당 업무\n- PG 관련 대내 업무 시스템 개발 및 유지보수\n- 결제 서비스 관련 내부 프로세스 지원\n- 대외 정보 제공을 위한 관리 시스템 구축 및 운영\n- 업무 자동화 시스템 구현을 통한 효율성 향상\n\n자격 요건\n- 웹 개발 경력 5년 이상\n- Spring Boot 기반 웹 애플리케이션 개발 경험\n- RESTful API 설계 및 개발 경험\n- MSSQL, MySQL, Oracle 등 RDBMS 활용 능력\n- Git 등 형상관리 도구 사용 경험\n\n우대사항\n- 업무시스템에 대한 이해와 경험이 있으신 분\n- F/E(react 등) 개발도 가능하신 분\n- 긍정적, 적극적이며 탐구 정신이 많으신 분\n- 동료들과의 경쟁보다는 협업과 공유를 즐기시는 분\n- 이슈 및 장애 발생 시 유연하고 균형감 있는 사고로 해결할 수 있는 분\n- 기존 시스템에 대한 분석과 리팩토링을 통한 프로세스 개선이 가능하신 분",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48196719?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "웹 서비스 개발",
+  "company": "네이트커뮤니케이션즈",
+  "requirements_text": "Linux 기반 웹 서비스 개발/운영 경험자\nJava/JSP, Spring framework, Spring Boot, JPA 활용 서비스 개발/운영 경험자\nRDB(MySQL/Oracle) 및 Redis 등 다양한 NoSQL 기술 경험자\n웹서버(Apache/Nginx), WAS(Tomcat/Resin) 등에 대한 깊은 이해 및 설치/튜닝 역량 보유자\nRESTful API 서비스 개발/운영 경험자\nGit, Jira, Wiki 등의 협업 도구 사용 경험자\nJenkins 빌드 경험자\nDocker 기반 배포 자동화, Rancher와 같은 컨테이너 관리 플랫폼 활용 경험자\n빌드/테스트/배포 자동화를 통한 CI/CD 경험자",
+  "responsibilities_text": "네이트온 서비스 개발 및 운영\n외부 협력 과제 프로젝트 진행",
+  "raw_description": "담당업무\n- 네이트온 서비스 개발 및 운영\n- 외부 협력 과제 프로젝트 진행\n\n자격요건\n- Linux 기반 웹 서비스 개발/운영 경험자\n- Java/JSP, Spring framework, Spring Boot, JPA 활용 서비스 개발/운영 경험자\n- RDB(MySQL/Oracle) 및 Redis 등 다양한 NoSQL 기술 경험자\n- 웹서버(Apache/Nginx), WAS(Tomcat/Resin) 등에 대한 깊은 이해 및 설치/튜닝 역량 보유자\n- RESTful API 서비스 개발/운영 경험자\n- Git, Jira, Wiki 등의 협업 도구 사용 경험자\n- Jenkins 빌드 경험자\n- Docker 기반 배포 자동화, Rancher와 같은 컨테이너 관리 플랫폼 활용 경험자\n- 빌드/테스트/배포 자동화를 통한 CI/CD 경험자\n\n우대사항\n- PHP/BASH/Python 등 스크립트 언어 개발 역량 보유자\n- C/C++ 개발 역량 보유자\n- 대용량 실시간 데이터 처리 및 아키텍처에 대한 경험자\n- 웹 프론트엔드 개발 능력과 UI에 대한 기본 지식 및 경험자\n- 네트워크(HTTP, SSL)에 대한 기본 지식 및 경험자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48205973?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "IT 기술지원 / 유지보수 담당자",
+  "company": "소프트베이스",
+  "requirements_text": "학력: 대졸 이상\n경력: 경력\nJavaScript 및 웹 환경 구조에 대한 기본 이해\nIT 운영/기술지원 업무에 대한 관심과 학습 의지\n원활한 커뮤니케이션 능력 및 문제 해결 능력",
+  "responsibilities_text": "xFrame 솔루션 기반 시스템 운영 및 유지보수 지원\n고객사 요청사항 분석 및 장애 대응 (1차/2차 기술지원)\n신규 기능 요청 시 기본 분석 및 연구소 협업\n운영 로그 및 장애 리포트 작성, 개선사항 제안",
+  "raw_description": "IT 기술지원 / 유지보수 담당자 (0명)\n\n[담당업무]\n- xFrame 솔루션 기반 시스템 운영 및 유지보수 지원\n- 고객사 요청사항 분석 및 장애 대응 (1차/2차 기술지원)\n- 신규 기능 요청 시 기본 분석 및 연구소 협업\n- 운영 로그 및 장애 리포트 작성, 개선사항 제안\n\n[스킬]\n- Angular, C++, API, JAVA, Spring, 전자정부프레임워크, JSP, Jquery, Javascript, HTML5\n\n[핵심역량]\n- 계획성, 성실성, 창의성, 꼼꼼함, 스트레스관리\n\n[자격요건]\n- 학력: 대졸 이상\n- 경력: 경력\n- JavaScript 및 웹 환경 구조에 대한 기본 이해\n- IT 운영/기술지원 업무에 대한 관심과 학습 의지\n- 원활한 커뮤니케이션 능력 및 문제 해결 능력\n\n[우대사항]\n- Java, JSP, Spring 등 백엔드 경험\n- JSP, Jquery, Javascript 등 프론트엔드 경험\n- Oracle, MySQL 등 DB 경험\n- 금융권/공공기관 인프라 유지보수 경험\n- 관련 자격증 보유자\n- 자격증: 정보처리기사",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48204187?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "백엔드 개발",
+  "company": "다날",
+  "requirements_text": "백엔드 개발 경력 3~7년\n대용량 데이터 / 트래픽 경험자\n주요기술: Kotlin/Java, Netty, Spring framework(Spring Boot, Spring Batch, Spring Cloud)\nJPA에 대한 이해가 깊으신 분",
+  "responsibilities_text": "글로벌 결제 서비스(PayPal, WeChat 등) 신규 연동 및 운영\n다날 전용 해외 간편 결제 플랫폼 설계 및 백엔드 시스템 개발\n대용량 트래픽을 고려한 안정적이고 확장 가능한 서버 아키텍처 설계\n글로벌 서비스 특성을 고려한 성능 최적화, 모니터링 및 장애 대응",
+  "raw_description": "담당 업무\n- 글로벌 결제 서비스(PayPal, WeChat 등) 신규 연동 및 운영\n- 다날 전용 해외 간편 결제 플랫폼 설계 및 백엔드 시스템 개발\n- 대용량 트래픽을 고려한 안정적이고 확장 가능한 서버 아키텍처 설계\n- 글로벌 서비스 특성을 고려한 성능 최적화, 모니터링 및 장애 대응\n\n자격 요건\n- 백엔드 개발 경력 3~7년\n- 대용량 데이터 / 트래픽 경험자\n- 주요기술: Kotlin/Java, Netty, Spring framework(Spring Boot, Spring Batch, Spring Cloud)\n- JPA에 대한 이해가 깊으신 분\n\n우대사항\n- PG(Payment Gateway) 서비스 운영 및 개발 경험\n- 글로벌 결제 서비스 아키텍처 설계 및 연동 경험\n- AI 기반 코딩 어시스턴트(GitHub Copilot, Claude Code, Codex 등) 활용 경험\n- 클라우드 환경(GCP, Azure) 기반 서비스 운영 경험\n- 보안/인증(OAuth2, JWT, 암호화) 관련 개발 경험\n- 영어를 활용한 해외 파트너사와의 기술 커뮤니케이션 가능자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48195082?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "SW 선행개발 시뮬레이터 개발",
+  "company": "세화",
+  "requirements_text": "개발 경력 4년 이상\nC++/C#(.NET) 경험\nWindows UI framework\nLinux system & Application programming\nClient/UI Rendering(.NET, WPF, SkiaSharp 등)\nCommunication Protocol Stack(CAN, Ethernet, TCP/IP socket)\nBackend / Communication(gRPC)",
+  "responsibilities_text": "SW 선행개발 시뮬레이터 개발",
+  "raw_description": "SW 선행개발 시뮬레이터 개발\n\n[자격요건]\n- 개발 경력: 4년 이상\n- C++/C#(.NET) 경험\n- Windows UI framework\n- Linux system & Application programming\n- Client/UI Rendering(.NET, WPF, SkiaSharp 등)\n- Communication Protocol Stack(CAN, Ethernet, TCP/IP socket)\n- Backend / Communication(gRPC)\n\n[우대사항]\n- 철도 RAMS 경험자 우대\n- Git/SVN 등 협업툴(Jira, Confluence) 사용경험자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48135901?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "프론트엔드 개발자",
+  "company": "크루메이트",
+  "requirements_text": "React.js, Next.js 프로젝트 런칭 경험\nReact-query, styled-components 사용 경험\nTypeScript 사용 가능\nRedux 등 상태관리 라이브러리 사용 경험\nAtomic Design 패턴 기반의 디자인 파일을 Figma에서 작업(Atomic 디자인 패턴에 대한 이해와 경험)\n오픈소스 UI framework 구성 경험자(우대)\n리더급 급여 협의 가능",
+  "responsibilities_text": "모바일/PC 웹개발",
+  "raw_description": "포지션: 프론트엔드 개발자 모집\n\n[담당업무]\n- 모바일/PC 웹개발\n\n[자격요건]\n- React.js, Next.js 프로젝트 런칭 경험\n- React-query, styled-components 사용 경험\n- TypeScript 사용 가능\n- Redux 등 상태관리 라이브러리 사용 경험\n- Atomic Design 패턴 기반의 디자인 파일을 Figma에서 작업(Atomic 디자인 패턴에 대한 이해와 경험)\n- 오픈소스 UI framework 구성 경험자(우대)\n- 리더급 급여 협의 가능\n\n[근무]\n- 기간: 2026.01 ~ 2026.07\n- 시간: 09:00~18:00\n\n[문의]\n- 010-5688-5219\n- eyebrow@crewmate.co.kr",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48110530?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "TEST Engineer",
+  "company": "NHN",
+  "requirements_text": "초대졸 이상(졸업예정자 포함)\n문서에 대한 파악과 이해도가 높은 분\n다양한 서비스앱(혹은 웹)에 대한 경험을 보유하신 분",
+  "responsibilities_text": "게임 및 서비스의 기능/호환/성능 테스트\n테스트 계획부터 케이스 설계, 작성, 실행, 종료까지의 전 과정을 수행하고 제어하며, 전체적인 품질 관리 업무 수행",
+  "raw_description": "모집부문: TEST Engineer\n\n[업무내용]\n- 게임 및 서비스의 기능/호환/성능 테스트\n- 테스트 계획부터 케이스 설계, 작성, 실행, 종료까지의 전 과정을 수행하고 제어하며, 전체적인 품질 관리 업무 수행\n\n[고용형태]\n- 계약직\n\n[자격요건]\n- 초대졸 이상(졸업예정자 포함)\n- 문서에 대한 파악과 이해도가 높은 분\n- 다양한 서비스앱(혹은 웹)에 대한 경험을 보유하신 분\n\n[우대사항]\n- 컴퓨터공학 관련 전공자\n\n[근무시간]\n- 주 5일제(월~금)이며, 채용되는 부서에 따라 근무 시간이 다르게 적용됩니다.\n\n[근무지]\n- 경기도 성남시 분당구 대왕판교로 645번길 16, NHN 플레이뮤지엄",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48197809?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "Java 개발 및 운영(SM)",
+  "company": "시루정보",
+  "requirements_text": "학력: 초대졸 이상\n경력: 6년 이상(기술등급 고급)\n채용직위: 과장~차장\n근무장소: 세종\n기술: Spring, Java, Oracle, Spring Batch\n기간: 12월 투입 후 6개월(이후 계약 연장)",
+  "responsibilities_text": "공공기관 은행 구간에 대한 업무 연계 관리\n외부 기관 API 연동시스템 운영 및 협업\n정책 변화 대응 및 신규 기능 개발 관리\n근무형태: 계약직",
+  "raw_description": "모집분야: Java 개발 및 운영(SM)\n\n[담당업무]\n- 공공기관 은행 구간에 대한 업무 연계 관리\n- 외부 기관 API 연동시스템 운영 및 협업\n- 정책 변화 대응 및 신규 기능 개발 관리\n- 근무형태: 계약직\n\n[자격요건]\n- 학력: 초대졸 이상\n- 경력: 6년 이상(기술등급 고급)\n- 채용직위: 과장~차장\n- 근무장소: 세종\n- 기술: Spring, Java, Oracle, Spring Batch\n- 기간: 12월 투입 후 6개월(이후 계약 연장)\n\n[우대사항]\n- 금융 및 웹서비스 S/W 개발 유경험자 우대(발행, 지급, 정산, 민원 처리 시스템)\n- 성능 최적화 및 펌뱅킹 연동 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48200366?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "AX사업본부 (생성형 AI 서비스 개발)",
+  "company": "데이터솔루션",
+  "requirements_text": "대학교 졸업(4년) 이상\n[신입 자격 요건]\n생성형 AI 서비스 분석/설계/개발 업무에 관심이 있는 분\nLLM의 동작을 분석하고 이해하여 효과적인 프롬프트를 설계할 수 있는 분\nAI 코드어시스턴트를 사용한 개발 경험자\n컨테이너 환경을 통해 개발 경험자\nPython, Java 등 개발 언어를 활용한 코딩이 가능한 분\n\n[경력 자격 요건]\n경력 3년 이상\nFE와 BE에 대한 이해도 높은 풀스택 개발자\nAI 코드어시스턴트를 사용한 풀스택 개발 경험자\nAgentic AI 로직 설계 및 AI 워크플로우 개발 경험자\nAI BE API 및 MCP 연계 개발 경험자\n개발, 테스트, 빌드, 배포 환경 구축 경험자\n클라우드 플랫폼(e.g., Azure, AWS, GCP) 활용 경험자\n오픈소스 플랫폼 및 OSS 라이브러리 적용 경험자",
+  "responsibilities_text": "생성형 AI 기반 서비스 개발 및 유지보수\n생성형 AI 서비스 분석/설계/개발 업무 수행\nAPI 연계 및 오픈소스 활용 서비스 개발\n최신 AI 기술 트렌드 조사 및 적용",
+  "raw_description": "[공통 요건]\n- 대학교 졸업(4년) 이상\n\n[신입 자격 요건]\n- 생성형 AI 서비스 분석/설계/개발 업무에 관심이 있는 분\n- LLM의 동작을 분석하고 이해하여 효과적인 프롬프트를 설계할 수 있는 분\n- AI 코드어시스턴트를 사용한 개발 경험자\n- 컨테이너 환경을 통해 개발 경험자\n- Python, Java 등 개발 언어를 활용한 코딩이 가능한 분\n\n[경력 자격 요건]\n- 경력 3년 이상\n- FE와 BE에 대한 이해도 높은 풀스택 개발자\n- AI 코드어시스턴트를 사용한 풀스택 개발 경험자\n- Agentic AI 로직 설계 및 AI 워크플로우 개발 경험자\n- AI BE API 및 MCP 연계 개발 경험자\n- 개발, 테스트, 빌드, 배포 환경 구축 경험자\n- 클라우드 플랫폼(e.g., Azure, AWS, GCP) 활용 경험자\n- 오픈소스 플랫폼 및 OSS 라이브러리 적용 경험자\n\n[주요업무]\n- 생성형 AI 기반 서비스 개발 및 유지보수\n- 생성형 AI 서비스 분석/설계/개발 업무 수행\n- API 연계 및 오픈소스 활용 서비스 개발\n- 최신 AI 기술 트렌드 조사 및 적용\n\n[우대사항]\n- LLM을 이해하고 연관 서비스 개발 및 API 사용 경험 보유\n- AI 모델 최적화 및 배포 경험\n- 클라우드 플랫폼(e.g., GCP, AWS, Azure) 사용 경험 보유\n- 개발관련 자격증 소지자(e.g., 정보처리기사, SQLD, 리눅스마스터, Azure/AWS 관련 자격증 등)",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48197700?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "재무회계 웹개발",
+  "company": "더존비즈온",
+  "requirements_text": "웹 개발 가능자(JavaScript, Spring)\n유관 학과 전공자(회계, 경영, 컴퓨터공학 등)",
+  "responsibilities_text": "재무관리, 회계 솔루션 웹 개발\nERP 개발 및 유지보수(Amaranth 10)\n재무회계 웹 서비스 개발(Amaranth 10)",
+  "raw_description": "담당업무\n- 재무관리, 회계 솔루션 웹 개발\n- ERP 개발 및 유지보수(Amaranth 10)\n- 재무회계 웹 서비스 개발(Amaranth 10)\n\n자격요건\n- 웹 개발 가능자(JavaScript, Spring)\n- 유관 학과 전공자(회계, 경영, 컴퓨터공학 등)\n\n우대사항\n- React 개발 경험 보유자 우대\n- ERP 관련 1년 이상 실무 경험자 우대",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48196847?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "재무회계 웹기획",
+  "company": "더존비즈온",
+  "requirements_text": "유관 학과 전공자(회계, 경영 등)",
+  "responsibilities_text": "재무관리, 회계 솔루션 웹 기획\n솔루션 웹 기획 및 운영(Amaranth 10)\n사용자 요구사항 분석 및 기능 개선 기획(Amaranth 10)",
+  "raw_description": "담당업무\n- 재무관리, 회계 솔루션 웹 기획\n- 솔루션 웹 기획 및 운영(Amaranth 10)\n- 사용자 요구사항 분석, 기능 개선 기획(Amaranth 10)\n\n필수 자격요건\n- 유관 학과 전공자(회계, 경영 등)\n\n우대사항\n- ERP정보관리사, 세무회계·전산세무·TAT 2급 이상 등 관련 자격 보유자 우대\n- 상용 서비스 및 제품 기획 및 서비스 운영 참여 경험자 우대\n- ERP 관련 1년 이상 실무 경험자 우대",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48196847?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "JAVA 개발자 (운영/유지)",
+  "company": "피씨엔",
+  "requirements_text": "KOSA 자격 증빙 가능자(필수요건)\n채용합격 시 지정된 출근일자에 출근 가능자(필수요건)\n6~10년 경력자, 10~15년 경력자 각 채용 예정\n맡은 업무 책임감 있고 성실하게 수행 가능하신 분\n팀원들과 소통 및 협력이 원활하신 분",
+  "responsibilities_text": "JAVA 개발(SM)\n시스템 운영/유지 관리",
+  "raw_description": "모집분야: JAVA개발자 (운영/유지)\n\n[주요업무]\n- JAVA 개발(SM)\n- 시스템 운영/유지 관리\n\n[우대사항]\n- KOSA 자격 증빙 가능자(필수요건)\n- 채용합격 시 지정된 출근일자에 출근 가능자(필수요건)\n- 맡은 업무 책임감 있고 성실하게 수행 가능하신 분\n- 팀원들과 소통 및 협력이 원활하신 분\n\n[기타사항]\n- 근무지는 PCN 본사 또는 파견 근무지(서울시 마포구 상암동)\n- 6~10년 경력자, 10~15년 경력자 각 채용 예정",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48177949?Oem_Code=C1&rPageCode=TL"
+}, 
+
+{
+  "job_role": "백엔드 엔지니어",
+  "company": "알라딘커뮤니케이션",
+  "requirements_text": "관련분야 개발 경력 7년 이상\nASP.NET WebForm, ASP.NET Core(C#) 기반 웹 애플리케이션 개발 및 운영 경험\nRESTful API 서비스 설계 및 개발 경험\nMS SQL Server 또는 MySQL 기반의 DB 설계 및 쿼리 최적화 경험\n문제를 주도적으로 정의·분석하고 솔루션을 제안할 수 있는 분",
+  "responsibilities_text": "알라딘 온라인 서점 플랫폼의 서버사이드 시스템 설계, 개발 및 운영\n자사의 Backend 서비스 개발\n대용량 트래픽에도 안정적인 서비스를 위한 Stateless 시스템 설계 및 개발",
+  "raw_description": "개발팀\n백엔드 엔지니어\n\n- 알라딘 온라인 서점 플랫폼의 서버사이드 시스템 설계, 개발 및 운영\n- 자사의 Backend 서비스 개발\n- 대용량 트래픽에도 안정적인 서비스를 위한 Stateless 시스템 설계 및 개발\n\n[자격요건]\n- 관련분야 개발 경력 7년 이상\n- ASP.NET WebForm, ASP.NET Core(C#) 기반 웹 애플리케이션 개발 및 운영 경험\n- RESTful API 서비스 설계 및 개발 경험\n- MS SQL Server 또는 MySQL 기반의 DB 설계 및 쿼리 최적화 경험\n- 문제를 주도적으로 정의·분석하고 솔루션을 제안할 수 있는 분\n\n[우대사항]\n- AWS, Azure 등 클라우드 플랫폼 활용 경험\n- 비동기, 동시성, 병렬 처리에 대한 깊은 이해\n- JavaScript/jQuery/React/Next.js 등 프론트엔드 이해 및 개발 경험\n- Entity Framework Core, Dapper 등 ORM 사용 경험\n- .NET Framework에서 .NET Core/.NET 6+ 마이그레이션 경험\n- 대규모 트래픽을 고려한 설계·구현 및 성능 최적화 경험\n- 대용량 데이터 처리 및 DB 운영 경험\n- Microservices Architecture 또는 Event-Driven Architecture 설계 및 구축 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48169591?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "Frontend 개발자",
+  "company": "CJ 4DPLEX",
+  "requirements_text": "관련 분야 4년 이상 근무 경력이 있으신 분\nReact, TypeScript 기반 SPA 개발 경험이 있으신 분\nHTML5, CSS3, JavaScript(ES6+)에 대한 깊은 이해\nAPI 연동 및 상태 관리(Redux, Recoil 등) 경험",
+  "responsibilities_text": "CJ 4DPLEX의 ScreenX/4DX 상영 제어 시스템 및 콘텐츠 배포 시스템 개발\nReact 기반 웹 애플리케이션 개발\nRESTful API 연동 및 실시간 데이터 시각화 구현\nUX 개선 및 퍼포먼스 최적화",
+  "raw_description": "Frontend 개발자\n\n[주요 업무]\n- CJ 4DPLEX의 ScreenX/4DX 상영 제어 시스템 및 콘텐츠 배포 시스템 개발\n- React 기반 웹 애플리케이션 개발\n- RESTful API 연동 및 실시간 데이터 시각화 구현\n- UX 개선 및 퍼포먼스 최적화\n\n[지원자격(필수)]\n- 관련 분야 4년 이상 근무 경력이 있으신 분\n- React, TypeScript 기반 SPA 개발 경험이 있으신 분\n- HTML5, CSS3, JavaScript(ES6+)에 대한 깊은 이해\n- API 연동 및 상태 관리(Redux, Recoil 등) 경험\n\n[우대 사항]\n- WebSocket, SSE 등 실시간 데이터 처리 경험\n- UI/UX 디자인 시스템 구축 경험\n- 성능 최적화 및 Lighthouse 점검 경험\n- Docker, CI/CD 환경에서의 프론트엔드 배포 경험\n- 글로벌 서비스 운영 경험(다국어 지원, 반응형 UI)",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48166213?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "엔드포인트 솔루션 및 소프트웨어 기술 엔지니어",
+  "company": "유니온시스템즈",
+  "requirements_text": "성별/학력 무관\n긍정적 사고와 책임감을 바탕으로 고객 및 내부 팀과 원활하게 소통할 수 있는 커뮤니케이션 능력 보유자\n해외여행에 결격 사유가 없는 자\n[경력]\n2년 이상 중공업계/엔드포인트 솔루션 운영 또는 기술지원 경험자",
+  "responsibilities_text": "엔드포인트 솔루션 기술지원 / 장애처리 / 유지보수\n솔루션 납품 고객사 및 파트너(협력사) 기술지원, 정기점검 및 제품교육 등\n프로젝트 PoC, 도입 컨설팅 및 구축 지원\n주요 파트너 기술자격 취득\n주요 제품: 자산 관리 솔루션, DAF, 기타 SW 등",
+  "raw_description": "담당업무\n엔드포인트 솔루션 및 소프트웨어 기술 엔지니어 - 0명\n- 엔드포인트 솔루션 기술지원 / 장애처리 / 유지보수\n- 솔루션 납품 고객사 및 파트너(협력사) 기술지원, 정기점검 및 제품교육 등\n- 프로젝트 PoC, 도입 컨설팅 및 구축 지원\n- 주요 파트너 기술자격 취득\n- 주요 제품: 자산 관리 솔루션, DAF, 기타 SW 등(홈페이지 참고)\n\n자격요건\n[신입/공통] 정규직(수습 3개월)\n- 성별/학력 무관\n- 긍정적 사고와 책임감을 바탕으로 고객 및 내부 팀과 원활하게 소통할 수 있는 커뮤니케이션 능력 보유자\n- 해외여행에 결격 사유가 없는 자\n\n[경력]\n- 2년 이상 중공업계/엔드포인트 솔루션 운영 또는 기술지원 경험자\n※ 연전 전형 합격자에 한하여 Reference Call이 진행될 수 있습니다.\n\n우대조건\n- IT 관련 전공 또는 IT 기관 교육 이수\n- IT 관련 자격증 소지자\n- WinSvr, LINUX 및 DBMS(MSSQL, MySQL, MariaDB) 관련 지식 보유자\n- 영문 매뉴얼 독해 및 실무 참고 가능자\n- 영어 스킬 보유자\n- 운전 가능자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48163510?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "JAVA 웹/앱 SW개발",
+  "company": "씨유홀딩스",
+  "requirements_text": "학력: 대졸 이상(졸업예정자 가능)\n경력: 신입",
+  "responsibilities_text": "신입 Java 개발\n웹/앱 개발\n디자인 업무\n이클립스, VSCode / GIT, SVN 등 개발 환경 사용",
+  "raw_description": "포지션: JAVA 웹/앱 SW개발 (0명)\n\n[담당업무]\n- 신입 Java 개발, 웹/앱 개발, 디자인 업무\n- 인텔리제이 우대, 이클립스, VSCode / GIT, SVN 등\n\n[스킬]\n- Javascript, Jquery, JSP, Git\n- CSS, Bootstrap, API, Ajax, HTML5\n\n[핵심역량]\n- 성실성, 꼼꼼함, 창의성, 협동심, 계획성, 적응성\n\n[자격요건]\n- 학력: 대졸 이상(졸업예정자 가능)\n- 경력: 신입\n\n[우대사항]\n- 장기근무 가능자\n- 관련 자격증 보유자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48158053?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "풀스택(PHP) 개발자",
+  "company": "국민교육복지센터",
+  "requirements_text": "php 개발 경력 5년 이상\n풀스택 개발 가능자\nmysql(maria) DB 가능자\n웹 호스팅 및 서버관리 가능자(가비아, 카페24)\n리눅스 가능자\n학력무관",
+  "responsibilities_text": "PHP 기반 풀스택 개발\nMySQL(MariaDB) 기반 데이터베이스 연동 개발\n웹 호스팅 및 서버 관리\n리눅스 환경에서의 서비스 운영",
+  "raw_description": "풀스택(php) 개발자 직원 채용\n\n[담당 업무]\n- php 개발 경력 5년 이상\n- 풀스택 개발 가능자\n- mysql(maria) DB 가능자\n- 웹 호스팅 및 서버관리 가능자(가비아, 카페24)\n- 리눅스 가능자\n\n[지원 자격]\n- 학력무관\n\n[우대 사항]\n- 레거시 사이트(asp) 유지보수 가능자\n- 외부 API 사용 가능자\n- 기획부터 주도적으로 개발 가능자\n- 대용량 데이터 처리 경험자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48157238?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "스토리지 / 시스템 엔지니어 (본사)",
+  "company": "리더스시스템즈",
+  "requirements_text": "경력: 5년 이상\n학력: 초대졸 이상(2,3년)\n해외 여행 시 결격 사유 없는 자\n운전 가능자",
+  "responsibilities_text": "서버, 스토리지, 네트워크 장비 설치, 구성 및 관리\n시스템 장애, 오류 진단 및 해결\nX86 서버 H/W 유지보수",
+  "raw_description": "모집부문: 스토리지 / 시스템 엔지니어 (본사)\n\n[담당업무]\n- 서버, 스토리지, 네트워크 장비 설치, 구성 및 관리\n- 시스템 장애, 오류 진단 및 해결\n- X86 서버 H/W 유지보수\n\n[지원자격]\n- 경력: 5년 이상\n- 학력: 초대졸 이상(2,3년)\n- 해외 여행 시 결격 사유 없는 자\n- 운전 가능자\n\n[우대사항]\n- IT, 전산, 컴퓨터/시스템공학, 정보통신관련 전공자\n- 리눅스, 네트워크, 보안관련 교육 이수자\n- 정보처리기사, 정보처리산업기사, 정보통신기사, 정보통신산업기사\n- 해당직무 근무경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48152317?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "스토리지 / 시스템 엔지니어 (대전 지사)",
+  "company": "러더스시스템즈",
+  "requirements_text": "경력: 무관\n학력: 초대졸 이상(2,3년)\n해외 여행 시 결격 사유 없는 자\n운전 가능자",
+  "responsibilities_text": "X86 서버 및 스토리지 장비 납품 준비 및 납품 수행\n서버 및 스토리지 유지보수(H/W 점검 및 S/W 설정 지원)\nOS 및 응용 소프트웨어 설치 및 설정\n고객사 기술 지원 및 장애 대응",
+  "raw_description": "모집부문: 스토리지 / 시스템 엔지니어 (대전 지사)\n\n[담당업무]\n- X86 서버 및 스토리지 장비 납품 준비 및 납품 수행\n- 서버 및 스토리지 유지보수(H/W 점검 및 S/W 설정 지원)\n- OS 및 응용 소프트웨어 설치 및 설정\n- 고객사 기술 지원 및 장애 대응\n\n[지원자격]\n- 경력: 무관\n- 학력: 초대졸 이상(2,3년)\n- 해외 여행 시 결격 사유 없는 자\n- 운전 가능자\n\n[우대사항]\n- X86 서버 및 스토리지 유지보수 경험자\n- 리눅스, 네트워크, 보안관련 교육 이수자\n- 컴퓨터 활용 능력 우수자\n- 해당직무 근무경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48152317?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "IT 인프라 설계",
+  "company": "리더스시스템즈",
+  "requirements_text": "경력: 경력 3년 이상\n해외 여행 시 결격 사유 없는 자",
+  "responsibilities_text": "GPU 서버 기반 클러스터 및 데이터 센터 인프라 설계, 제안서 작성\nSoftware & Solution 구축을 위한 아키텍처 설계\n최신 기술 동향 분석 및 문서작성",
+  "raw_description": "IT 인프라 설계\n\n[담당업무]\n- GPU 서버 기반 클러스터 및 데이터 센터 인프라 설계, 제안서 작성\n- Software & Solution 구축을 위한 아키텍처 설계\n- 최신 기술 동향 분석 및 문서작성\n\n[지원자격]\n- 경력: 경력 3년 이상\n- 해외 여행 시 결격 사유 없는 자\n\n[우대사항]\n- GPU 서버 및 인프라 구축 경험 보유자\n- IT 계열 관련학과 전공자\n- 최신 기술 동향에 대한 관심이 있는 분\n- 인근거주자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48152317?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "네트워크 엔지니어",
+  "company": "리더스시스템즈",
+  "requirements_text": "경력: 3년 이상\n학력: 초대졸 이상(2,3년)\n해외 여행 시 결격 사유 없는 자",
+  "responsibilities_text": "이더넷, 인피니밴드 GPU 클러스터 인프라 구축 및 유지보수\n서버시스템 유지보수",
+  "raw_description": "모집부문: 네트워크 엔지니어\n\n[담당업무]\n- 이더넷, 인피니밴드 GPU 클러스터 인프라 구축 및 유지보수\n- 서버시스템 유지보수\n\n[지원자격]\n- 경력: 3년 이상\n- 학력: 초대졸 이상(2,3년)\n- 해외 여행 시 결격 사유 없는 자\n\n[우대사항]\n- IT, 전산, 컴퓨터/시스템공학, 정보통신관련 전공자\n- 리눅스, 네트워크, 보안관련 교육 이수자\n- 정보처리기사, 정보처리산업기사, 정보통신기사, 정보통신산업기사\n- 해당직무 근무경험, 운전가능자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48152317?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "시스템 엔지니어",
+  "company": "리더스시스템즈",
+  "requirements_text": "경력: 무관\n학력: 초대졸 이상(2,3년)\n해외 여행 시 결격 사유 없는 자",
+  "responsibilities_text": "CPU, PC/워크스테이션, 서버, GPU 서버 등 장비 H/W 세팅 및 OS, S/W 설치, 유지보수",
+  "raw_description": "모집부문: 시스템 엔지니어\n\n[담당업무]\n- CPU, PC/워크스테이션, 서버, GPU 서버 등 장비 H/W 세팅 및 OS, S/W 설치, 유지보수\n\n[지원자격]\n- 경력: 무관\n- 학력: 초대졸 이상(2,3년)\n- 해외 여행 시 결격 사유 없는 자\n\n[우대사항]\n- 공학계열, 전기/전자공학, 컴퓨터/시스템공학 졸업자\n- 해당 직무 유경험자\n- 운전 가능자\n- 컴퓨터 활용능력 우수\n- 네트워크, 스토리지, HPC 유경험자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48152317?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "자사 플랫폼 개발 (Full stack)",
+  "company": "리더스시스템즈",
+  "requirements_text": "경력: 무관\n컴퓨터 계열 4년제 대학 졸업\nVue와 django 사용 가능\n해외 여행 시 결격 사유 없는 자",
+  "responsibilities_text": "자사 솔루션 서비스 개발 및 유지보수\n사용자 인터페이스(UI) 설계 및 구현\nAI 서비스 배포 자동화 및 구축 템플릿(레퍼런스) 개발\n백엔드 시스템 및 RESTful API 설계/개발\n사용자 인증, 권한 관리 시스템 개발\n부서 내 공통 업무(기획, 실행, 문서 작업 등) 수행",
+  "raw_description": "모집부문: 자사 플랫폼 개발 (Full stack)\n\n[담당업무]\n- 자사 솔루션 서비스 개발 및 유지보수\n- 사용자 인터페이스(UI) 설계 및 구현\n- AI 서비스 배포 자동화 및 구축 템플릿(레퍼런스) 개발\n- 백엔드 시스템 및 RESTful API 설계/개발\n- 사용자 인증, 권한 관리 시스템 개발\n- 부서 내 공통 업무(기획, 실행, 문서 작업 등) 수행\n\n[지원자격]\n- 경력: 무관\n- 컴퓨터 계열 4년제 대학 졸업\n- Vue와 django 사용 가능\n- 해외 여행 시 결격 사유 없는 자\n\n[우대사항]\n- Kubernetes와 연동하는 기술 개발 경험 보유\n- AI/머신러닝 관련 지식 보유\n- CI/CD 파이프라인 구축 및 운영 경험 보유\n- Linux 시스템 기본 사용능력\n- 코드 리뷰에 거부감 없으신 분\n- 원활한 의사소통과 프레젠테이션 능력 보유",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48152317?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "자사 플랫폼 개발자 (Python or shell script)",
+  "company": "리더스시스템즈",
+  "requirements_text": "경력: 무관\n컴퓨터 계열 4년제 대학 졸업\nPython or shell script 사용 가능\n해외 여행 시 결격 사유 없는 자",
+  "responsibilities_text": "자사 솔루션 서비스 개발 및 유지보수\nAI 클러스터 프로비저닝 및 관리 솔루션 개발\n클러스터 자원(GPU, CPU, 메모리) 상태 모니터링 및 시스템 로그 분석\n부서 내 공통 업무(기획, 실행, 문서 작업 등) 수행",
+  "raw_description": "모집부문: 자사 플랫폼 개발자 (Python or shell script)\n\n[담당업무]\n- 자사 솔루션 서비스 개발 및 유지보수\n- AI 클러스터 프로비저닝 및 관리 솔루션 개발\n- 클러스터 자원(GPU, CPU, 메모리) 상태 모니터링 및 시스템 로그 분석\n- 부서 내 공통 업무(기획, 실행, 문서 작업 등) 수행\n\n[지원자격]\n- 경력: 무관\n- 컴퓨터 계열 4년제 대학 졸업\n- Python or shell script 사용 가능\n- 해외 여행 시 결격 사유 없는 자\n\n[우대사항]\n- HPC(고성능 컴퓨팅) 환경에서의 개발 및 운영 경험\n- AI/머신러닝 관련 지식 보유\n- CI/CD 파이프라인 구축 및 운영 경험\n- Linux 시스템 기본 사용능력\n- 코드 리뷰에 거부감 없으신 분\n- 원활한 의사소통과 프레젠테이션 능력 보유",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48152317?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "디지털 트윈 관제 플랫폼 개발자 (Full stack)",
+  "company": "리더스시스템즈",
+  "requirements_text": "경력: 무관\n컴퓨터 계열 4년제 대학 졸업\nVue와 django 사용 가능\n해외 여행 시 결격 사유 없는 자",
+  "responsibilities_text": "3D 모델링 데이터 기반 웹 3D 가시화 기능 구현 및 플랫폼 프론트엔드 개발\n실시간 센서 및 IoT 데이터 기반 3D 모델 연동 관제 기능 구현\n대규모 3D 데이터 렌더링 기술 연구 및 백엔드 시스템 구축\n관리자 페이지 설계 및 RESTful API, 데이터베이스 연동 개발\n부서 내 공통 업무(기획, 실행, 문서 작업 등) 수행",
+  "raw_description": "모집부문: 디지털 트윈 관제 플랫폼 개발자 (Full stack)\n\n[담당업무]\n- 3D 모델링 데이터 기반 웹 3D 가시화 기능 구현 및 플랫폼 프론트엔드 개발\n- 실시간 센서 및 IoT 데이터 기반 3D 모델 연동 관제 기능 구현\n- 대규모 3D 데이터 렌더링 기술 연구 및 백엔드 시스템 구축\n- 관리자 페이지 설계 및 RESTful API, 데이터베이스 연동 개발\n- 부서 내 공통 업무(기획, 실행, 문서 작업 등) 수행\n\n[지원자격]\n- 경력: 무관\n- 컴퓨터 계열 4년제 대학 졸업\n- Vue와 django 사용 가능\n- 해외 여행 시 결격 사유 없는 자\n\n[우대사항]\n- Linux 시스템 기본 사용능력\n- 그래픽스 관련 지식 보유\n- GPU 렌더링 파이프라인에 대한 이해\n- 디지털 트윈, IoT, 스마트 팩토리 등 관련 분야 개발 경험\n- 코드 리뷰에 거부감 없으신 분\n- 원활한 의사소통과 프레젠테이션 능력 보유",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48152317?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "디지털 트윈 관제 플랫폼 개발자 (Python)",
+  "company": "리더스시스템즈",
+  "requirements_text": "경력: 무관\n컴퓨터 계열 4년제 대학 졸업\nPython 사용 가능\n해외 여행 시 결격 사유 없는 자",
+  "responsibilities_text": "디지털 트윈 관제 플랫폼 개발\n로봇, 카메라, 센서 등의 데이터 수집 및 처리 백엔드 시스템 개발\n디지털 트윈 모델 연동 및 가상 환경 객체 제어 기능 구현\nTCP/IP, MQTT 등 통신 프로토콜 연동 로직 개발\n대규모 데이터베이스 설계 및 효율적 데이터 관리\n부서 내 공통 업무(기획, 실행, 문서 작업 등) 수행",
+  "raw_description": "모집부문: 디지털 트윈 관제 플랫폼 개발자 (Python)\n\n[담당업무]\n- 디지털 트윈 관제 플랫폼 개발\n- 로봇, 카메라, 센서 등의 데이터 수집 및 처리 백엔드 시스템 개발\n- 디지털 트윈 모델 연동 및 가상 환경 객체 제어 기능 구현\n- TCP/IP, MQTT 등 통신 프로토콜 연동 로직 개발\n- 대규모 데이터베이스 설계 및 효율적 데이터 관리\n- 부서 내 공통 업무(기획, 실행, 문서 작업 등) 수행\n\n[지원자격]\n- 경력: 무관\n- 컴퓨터 계열 4년제 대학 졸업\n- Python 사용 가능\n- 해외 여행 시 결격 사유 없는 자\n\n[우대사항]\n- 실시간 데이터 처리 및 스트리밍 기술 이해\n- 네트워크 통신 프로토콜(TCP/IP, UDP, MQTT) 연동 경험\n- IoT(산업용 인터넷) 또는 로봇 관련 개발 경험\n- 디지털 트윈, 스마트 팩토리 등 관련 지식 보유\n- 대규모 분산 시스템 구축 경험 및 Linux 기본 사용 능력\n- 코드 리뷰에 거부감 없으신 분\n- 원활한 의사소통과 프레젠테이션 능력 보유",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48152317?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "Java 웹프로그래머 (신입/경력)",
+  "company": "다루소프트",
+  "requirements_text": "초대졸 이상\n경력: 경력 3년↑\nIT 관련 전공 이수자",
+  "responsibilities_text": "시스템 개발\n서비스 운영 및 유지보수\n사용자 요청에 대한 기능개선 및 반영",
+  "raw_description": "Java 웹프로그래머 신입/경력 (2명)\n\n[담당업무]\n- 시스템 개발\n- 서비스 운영 및 유지보수\n- 사용자 요청에 대한 기능개선 및 반영\n\n[스킬]\n- JSP, JAVA, nexacro, HTML, CSS, Javascript, jQuery 활용 가능자\n\n[자격요건]\n- 초대졸 이상\n- 경력: 경력 3년↑\n- IT 관련 전공 이수자\n\n[우대사항]\n- IT관련 자격증 보유\n- 시스템 유지보수 및 사용자 요청 반영 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48217398?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "FW 개발",
+  "company": "파인디지털",
+  "requirements_text": "경력: 3년~7년 (대리~과장급)\n학력: 학사 이상",
+  "responsibilities_text": "블랙박스 System S/W 개발\n블랙박스 개발보드 Bring-up, Linux Kernel, Device Driver 개발\nCamera Sensor/RX Chip/Serializer, De-Serializer 등 driver 개발\nMCU Firmware 개발",
+  "raw_description": "모집분야: FW개발\n\n[담당업무]\n- 블랙박스 System S/W 개발\n- 블랙박스 개발보드 Bring-up, Linux Kernel, Device Driver 개발\n- Camera Sensor/RX Chip/Serializer, De-Serializer 등 driver 개발\n- MCU Firmware 개발\n※ 업계 최고 대우 보장\n\n[자격요건]\n- 경력: 3년~7년 (대리~과장급)\n- 학력: 학사 이상\n\n[우대사항]\n- 블랙박스, 내비게이션 등 IT제품 수출 경험자\n- 해외 거래처 확대 및 바이어 관리 경험자\n- 영어 커뮤니케이션 능력 우수자\n- IT업계 유관 경력자 우대",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48220885?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "R&D (기술연구소)",
+  "company": "랩밴티지코리아",
+  "requirements_text": "4년제 대학(원) 졸업(예정)자\n3년 이상 경력자",
+  "responsibilities_text": "신규 서비스 Mobile(Native) 개발 및 유지보수\nAOS/iOS 2개 환경 모두 개발 가능해야 함",
+  "raw_description": "포지션: R&D (기술연구소) 0명\n\n[담당업무]\n- 신규 서비스 Mobile(Native) 개발 및 유지보수\n- AOS/iOS 2개 환경 모두 개발 가능해야 함\n\n[필수]\n- 4년제 대학(원) 졸업(예정)자\n- 3년 이상 경력자\n\n[우대]\n- java와 spring 프레임워크에 대한 기본적인 지식이 있으신 분\n- RESTful API, WebSocket (실시간 상태 감지), 오프라인 동기화 경험\n- EHS (환경·안전·보건) 도메인 지식",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48204316?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "IT 개발",
+  "company": "해태제과식품",
+  "requirements_text": "관련 자격증 소지 필수\nCS(Client & Server) Programming 가능자 우대\nOracle, Web Programming 가능자 우대",
+  "responsibilities_text": "사내 업무시스템 개발 및 유지보수(영업, 물류, 생산 등)\n업무 데이터 관리 및 분석\n조직별 전산 마감 업무 지원",
+  "raw_description": "모집분야: IT 개발\n\n[담당업무]\n- 사내 업무시스템 개발 및 유지보수(영업, 물류, 생산 등)\n- 업무 데이터 관리 및 분석\n- 조직별 전산 마감 업무 지원\n\n[자격요건 및 우대사항]\n- 관련 자격증 소지 필수\n- CS(Client & Server) Programming 가능자 우대\n- Oracle, Web Programming 가능자 우대",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48196726?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "사내 인프라 운영",
+  "company": "핸디소프트",
+  "requirements_text": "학력: 초대졸 이상\n경력: 경력 1년 이상 ~ 5년 이하\nLinux 운영 능숙자\nIT Helpdesk 업무 경험자",
+  "responsibilities_text": "사내 인프라(서버, 네트워크, 보안) 운영\nIT Helpdesk 운영",
+  "raw_description": "사내인프라 운영 (1명)\n\n[담당업무]\n- 사내 인프라(서버, 네트워크, 보안) 운영\n- IT Helpdesk 운영\n\n[자격요건]\n- 학력: 초대졸 이상\n- 경력: 경력 1년 이상 ~ 5년 이하\n- Linux 운영 능숙자\n- IT Helpdesk 업무 경험자\n\n[우대사항]\n- IT Helpdesk 업무 경험이 있는 분\n- 적극적이고 책임감이 강한 분\n- 협업과 소통 능력이 뛰어나신 분",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48223924?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "정보보호",
+  "company": "에듀윌",
+  "requirements_text": "정보보호 관련 학과 졸업자 또는 관련 경력 7년 이상\n(개인)정보보호 관리체계(ISMS-P) 인증 관련 지식 및 실무 경험\n개인정보보호 법규 및 관련 지식 대한 이해\n네트워크 기술 보유자(Routing & Switching, L4/L7, Cloud, Security, 무선랜 등)\n서비스(IDC, 클라우드) 및 사내 네트워크 구축·운영 경험\n보안 시스템(FW, VPN) 구축·운영 경험\n데이터 분석 능력 및 문제 해결 역량이 우수한 분",
+  "responsibilities_text": "에듀윌의 정보보호 체계와 네트워크 환경을 전반적으로 책임\n(개인)정보보호 관리체계 운영\n개인정보보호 정책 운영 및 관리\n정보보호 정책·가이드라인 수립 및 운영\n(개인)정보보호관리체계(ISMS-P) 인증 취득 및 지속적인 개선\n개인정보 보호 운영\n개인정보 Life-Cycle 관리 점검 및 개선을 통한 Risk 최소화\n개인정보 실태 점검 및 수탁사 점검\n개인정보 보안성 검토\n네트워크 및 보안 시스템 운영\n서비스(IDC, 클라우드) 및 사내 네트워크 운영 및 관리\n네트워크 보안 시스템(FW, VPN) 운영 및 관리",
+  "raw_description": "에듀윌의 모든 온·오프라인 서비스가 신뢰 위에서 작동하도록, 보안의 기준을 설계하는 역할입니다.\n시스템정보보호팀은 에듀윌의 수많은 고객과 구성원이 안심하고 서비스를 이용할 수 있는 환경을 만드는 팀입니다.\n급변하는 대내·외 보안 위협 속에서 정보보호 정책을 수립하고, 법규를 준수하며, 네트워크 및 보안 시스템을 안정적으로 운영하는 중추적 보안 조직입니다.\n이번 포지션은 단순한 운영을 넘어 에듀윌의 정보보호 수준을 한 단계 끌어올리는 실질적인 주도자로서 고객과 회사의 자산을 지켜내는 성과를 함께 만들어가는 역할입니다.\n\n[입사하면 이런 일을 합니다.]\n에듀윌의 정보보호 체계와 네트워크 환경을 전반적으로 책임집니다.\n\n1) (개인)정보보호 관리체계 운영\n- (개인)정보보호 정책 운영 및 관리\n- 정보보호 정책·가이드라인 수립 및 운영\n- (개인)정보보호관리체계(ISMS-P) 인증 취득 및 지속적인 개선\n\n2) 개인정보 보호 운영\n- 개인정보 Life-Cycle 관리 점검 및 개선을 통한 Risk 최소화\n- 개인정보 실태 점검 및 수탁사 점검\n- 개인정보 보안성 검토\n\n3) 네트워크 및 보안 시스템 운영\n- 서비스(IDC, 클라우드) 및 사내 네트워크 운영 및 관리\n- 네트워크 보안 시스템(FW, VPN) 운영 및 관리\n\n[이런 분을 기다리고 있습니다.]\n- 정보보호 관련 학과 졸업자 또는 관련 경력 7년 이상\n- (개인)정보보호 관리체계(ISMS-P) 인증 관련 지식 및 실무 경험\n- 개인정보보호 법규 및 관련 지식 대한 이해\n- 네트워크 기술 보유자(Routing & Switching, L4/L7, Cloud, Security, 무선랜 등)\n- 서비스(IDC, 클라우드) 및 사내 네트워크 구축·운영 경험\n- 보안 시스템(FW, VPN) 구축·운영 경험\n- 데이터 분석 능력 및 문제 해결 역량이 우수한 분\n\n[이런 경험이 있다면 더 좋습니다.]\n- 콜시스템(PBX, CTI, IVR, REC, SMS) 콜센터 구축·운영 경험\n- 정보보호·네트워크·시스템 관련 자격증 보유자\n- 비흡연자(에듀윌은 금연회사입니다)\n- 동종업종 경력자\n- 해당 분야에서 가지치지 않고 깊이 있게 성장해 온 분",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48223848?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "AI / Big Data 솔루션 엔지니어",
+  "company": "데이타솔루션",
+  "requirements_text": "학력: 초대졸 졸업 이상\n경력: 경력무관\nLinux/Unix 기반 서버 환경 운영 경험 또는 활용 가능자\nRDBMS(PostgreSQL, Oracle, MS-SQL 등) SQL 활용 가능자\nPython 필수, Java 또는 기타 서버 사이드 언어 1개 이상 이해\nREST API 기반 서비스 구조 이해 또는 개발 경험\nAI/머신러닝/LLM 서비스에 대한 기본적인 이해\nAI 서비스 구축 프로젝트에 대한 학습 의지 및 실무 적용 역량 보유자",
+  "responsibilities_text": "AI 솔루션(Dataiku, IBM Watsonx, Altair 등) 설치·환경 구성·성능 튜닝·운영 지원\n기업 고객 대상 AI/LLM 기반 솔루션 구축, PoC, 운영 프로젝트 수행\nAI 솔루션 기반 AI 서비스 구축(데이터 수집·정제·임베딩·벡터DB 연동·API 배포 등)\nBig Data / AI 파이프라인 설계 및 배치·스트리밍 처리 파이프라인 개발\nAI 모델 서빙(API) 및 MLOps 기반 배포·모니터링 환경 구축\n고객사 기술 요구사항 분석 및 아키텍처 설계·기술 지원\n클라우드 기반 AI 솔루션·서비스 구축 및 운영(AWS, GCP, Azure 등)",
+  "raw_description": "[지원자격]\n- 학력: 초대졸 졸업 이상\n- 경력: 경력무관\n- Linux/Unix 기반 서버 환경 운영 경험 또는 활용 가능자\n- RDBMS(PostgreSQL, Oracle, MS-SQL 등) SQL 활용 가능자\n- Python 필수, Java 또는 기타 서버 사이드 언어 1개 이상 이해\n- REST API 기반 서비스 구조 이해 또는 개발 경험\n- AI/머신러닝/LLM 서비스에 대한 기본적인 이해\n- AI 서비스 구축 프로젝트에 대한 학습 의지 및 실무 적용 역량 보유자\n\n[주요업무]\n- AI 솔루션(Dataiku, IBM Watsonx, Altair 등) 설치·환경 구성·성능 튜닝·운영 지원\n- 기업 고객 대상 AI/LLM 기반 솔루션 구축, PoC, 운영 프로젝트 수행\n- AI 솔루션 기반 AI 서비스 구축(데이터 수집·정제·임베딩·벡터DB 연동·API 배포 등)\n- Big Data / AI 파이프라인 설계 및 배치·스트리밍 처리 파이프라인 개발\n- AI 모델 서빙(API) 및 MLOps 기반 배포·모니터링 환경 구축\n- 고객사 기술 요구사항 분석 및 아키텍처 설계·기술 지원\n- 클라우드 기반 AI 솔루션·서비스 구축 및 운영(AWS, GCP, Azure 등)\n\n[우대사항]\n- RAG, LLM(OpenAI, Claude, Gemini 등) 기반 서비스 구축 경험\n- 벡터DB(Milvus, Qdrant, FAISS 등) 또는 검색엔진 연동 경험\n- Dataiku, Watsonx, Altair, SAS 등 AI 플랫폼 실무 활용 경험\n- Docker, Kubernetes 기반 컨테이너 운영 환경 경험\n- MLOps(모델 배포, 모니터링, 파이프라인 자동화) 경험\n- FastAPI, Flask 등 Python 기반 API 서버 구축 경험\n- AWS/GCP/Azure 기반 AI·데이터 플랫폼 구축 또는 운영 경험\n- 비정형(Text, Log, Document) 데이터 처리 및 NLP 프로젝트 경험\n- Git 기반 협업, CI/CD 파이프라인 경험\n- 정보처리기사, AWS, 데이터·AI 관련 자격증 보유자\n\n[인재상]\n- 새로운 기술 학습에 적극적이며 문제 해결 능력이 뛰어난 분\n- 논리적 사고 기반으로 프로젝트 수행이 가능한 분\n- 원활한 커뮤니케이션과 협업 능력을 갖춘 분",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48221900?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "iOS 개발",
+  "company": "레진엔터테인먼트",
+  "requirements_text": "5년 이상 7년 이하의 iOS 개발 경력을 보유하신 분\nSwift를 이용한 iOS 개발 경험을 보유하신 분\n소프트웨어 아키텍처에 대한 이해를 갖추신 분\nAppstore 배포 실무 경험을 보유하신 분",
+  "responsibilities_text": "숏폼 플랫폼 iOS 앱 기능 개발 및 유지보수",
+  "raw_description": "iOS 개발\n\n[담당업무]\n- 숏폼 플랫폼 iOS 앱 기능 개발 및 유지보수\n\n[자격요건]\n- 5년 이상 7년 이하의 iOS 개발 경력을 보유하신 분\n- Swift를 이용한 iOS 개발 경험을 보유하신 분\n- 소프트웨어 아키텍처에 대한 이해를 갖추신 분\n- Appstore 배포 실무 경험을 보유하신 분\n\n[우대사항]\n- 스트리밍 서비스 경험을 보유하신 분\n- SnapKit을 이용한 화면 구현 경험을 보유하신 분\n- 인앱결제, 인앱구독 서비스 구현 경험을 보유하신 분",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48221577?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "Android 개발",
+  "company": "레진엔터테인먼트",
+  "requirements_text": "5년 이상 7년 이하의 Android 개발 경력을 보유하신 분\nkotlin 및 Java를 이용한 Android 개발 경험을 보유하신 분\nAndroid ViewModel, Room, Jetpack Compose, Coroutine 등 안드로이드 플랫폼에 대한 이해를 갖추신 분\n소프트웨어 아키텍처에 대한 이해를 갖추신 분\n다양한 스토어 배포 경험을 보유하신 분 (Google Play, One Store 등)",
+  "responsibilities_text": "숏폼 플랫폼 Android 앱 기능 개발 및 유지보수",
+  "raw_description": "Android 개발\n\n[담당업무]\n- 숏폼 플랫폼 Android 앱 기능 개발 및 유지보수\n\n[자격요건]\n- 5년 이상 7년 이하의 Android 개발 경력을 보유하신 분\n- kotlin 및 Java를 이용한 Android 개발 경험을 보유하신 분\n- Android ViewModel, Room, Jetpack Compose, Coroutine 등 안드로이드 플랫폼에 대한 이해를 갖추신 분\n- 소프트웨어 아키텍처에 대한 이해를 갖추신 분\n- 다양한 스토어 배포 경험을 보유하신 분 (Google Play, One Store 등)\n\n[우대사항]\n- 스트리밍 서비스 경험을 보유하신 분",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48221722?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "네트워크 엔지니어(신입)",
+  "company": "교보문고",
+  "requirements_text": "네트워크·보안·NAC 솔루션 등 인프라 전반에 대한 기초 지식 보유\nTCP/IP, Routing/Switching, VLAN, VPN 등 기본 네트워크 기술 이해\n책임감이 높고 다양한 이해관계자와 능동적으로 소통할 수 있는 분\n대졸(4년) 학사학위 소지자 (2026년 2월 졸업예정자 포함)",
+  "responsibilities_text": "사내 네트워크 및 보안 인프라 설계·구축·운영 지원\nL2/L3 스위치, 라우터, 무선 LAN, VPN 등 네트워크 장비 운영\n방화벽, IPS/IDS, WAF, DDoS, NAC 등 보안 장비 운영\n네트워크·보안 환경 및 장비 모니터링 시스템 구축 및 트러블슈팅\n네트워크·보안 정책 수립 및 규정 관리\n인터넷/업무망 분리, 접근제어 정책, 계정·권한 관리\nIT 인프라 환경 개선 및 고도화\n신규 서비스/시스템 도입 시 네트워크·보안 아키텍처 검토 및 기술 지원\n정기 취약점 점검 및 개선 과제 도출, 보안 감사/인증 대응 지원",
+  "raw_description": "모집분야: 네트워크 엔지니어(신입)\n\n[조직소개]\n교보문고 IT클라우드팀은 교보문고 전사를 대상으로 전체 네트워크, 보안 인프라를 운영·관리하는 역할을 수행하고 있습니다.\n\n[업무내용]\n1. 사내 네트워크 및 보안 인프라 설계·구축·운영 지원\n- L2/L3 스위치, 라우터, 무선 LAN, VPN 등 네트워크 장비 운영\n- 방화벽, IPS/IDS, WAF, DDoS, NAC 등 보안 장비 운영\n- 네트워크·보안 환경 및 장비에 대한 모니터링 시스템 구축 및 Trouble-Shooting\n2. 네트워크·보안 정책 수립 및 규정 관리\n- 인터넷/업무망 분리, 접근제어 정책, 계정·권한 관리\n3. IT 인프라 환경 개선 및 고도화\n4. 신규 서비스/시스템 도입 시 네트워크·보안 아키텍처 검토 및 기술 지원\n5. 정기 취약점 점검 및 개선 과제 도출, 보안 감사/인증 대응 지원\n\n[자격요건]\n- 네트워크·보안·NAC 솔루션 등 인프라 전반에 대한 기초 지식 보유\n- TCP/IP, Routing/Switching, VLAN, VPN 등 기본 네트워크 기술 이해\n- 책임감이 높고 다양한 이해관계자와 능동적으로 소통할 수 있는 분\n- 대졸(4년) 학사학위 소지자 (2026년 2월 졸업예정자 포함)\n\n[우대사항]\n- 네트워크·보안 등 IT 인프라 관련 프로젝트·인턴 경험\n- 대규모 네트워크·보안 설계 및 솔루션 구축/운영 경험\n- 대규모 지점/매장 네트워크 운영 및 장애 대응 경험\n- DDoS, IPS, WAF, UTM 등 다양한 솔루션 경험\n- 정보처리기사 등 IT/보안 관련 자격증 보유\n- Python, Shell 등 자동화 스크립트 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48221416?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "네트워크 통신장비 설치 및 유지보수",
+  "company": "디즈넷",
+  "requirements_text": "학력 무관\n경력 2년 이상",
+  "responsibilities_text": "네트워크 및 통신장비 설치\n통신장비 유지보수\nIP 교환기 설치 및 유지보수\nWiFi 장비 설치 및 유지보수",
+  "raw_description": "모집분야: 네트워크 통신장비 설치 및 유지보수 (2명)\n\n[담당업무]\n- 네트워크/통신장비/IP교환기/WiFi 설치 및 유지보수\n\n[자격요건]\n- 학력: 무관\n- 경력: 2년 이상\n\n[우대사항]\n- 관련 자격증 보유자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48219744?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "네트워크 엔지니어",
+  "company": "링네트",
+  "requirements_text": "네트워크 엔지니어 경력 1년 이상",
+  "responsibilities_text": "Cisco 네트워크 사이트 유지보수(소·중·대형 사이트 담당 및 지원)\n네트워크 프로젝트 설계, 구축 및 지원(유·무선 교체, 신규 구축 등)",
+  "raw_description": "구분: 네트워크 엔지니어\n경력: 1년 이상\n\n[담당업무]\n1. Cisco 네트워크 사이트 유지보수(소·중·대형 사이트 담당 및 지원)\n2. 프로젝트 설계, 구축, 지원(유·무선 교체, 신규 구축 등)\n\n[지원자격]\n- 네트워크 엔지니어 경력 1년 이상 보유자\n\n[우대사항]\n- Cisco 자격증 보유자\n- Cisco 장비 운영 경험자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48218532?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "DevOps 개발자",
+  "company": "키다리스튜디오",
+  "requirements_text": "5년 이상의 AWS 클라우드 운영 경험\nAWS 리소스 최적화를 위한 비용 분석 및 리소스 구조 개선 경험\nIaC 도구를 활용한 인프라 구성 및 운영 경험\nCI/CD 파이프라인 설계·구현·배포 경험\n시스템 모니터링 및 로깅 도구 운영 경험\nMSA 기반 서비스 배포 자동화 및 운영 경험\n글로벌 리전 기반 시스템 구성 및 운영 경험",
+  "responsibilities_text": "AWS 클라우드의 k8s를 활용한 IaC 구성 및 클라우드 운영환경 활용\n글로벌 클라우드 시스템 아키텍처 구성 및 관리·운영\nB2C 서비스 운영 중 발생하는 기술 이슈 대응 및 문제 해결\n인프라 모니터링 시스템 구축 및 운영\n효율적인 AWS 비용 최적화\n글로벌 서비스의 MSA 아키텍처 구축 및 운영",
+  "raw_description": "포지션: DevOps 개발자\n\n[담당업무]\n- AWS 클라우드의 k8s를 사용한 IaC 구성과 클라우드 운영환경 활용\n- 글로벌 클라우드 시스템 Architecture 구성 및 관리 운영\n- B2C 서비스 운영 중 발생하는 기술 이슈 대응 및 문제 해결\n- 인프라 모니터링 시스템 구축 및 운영\n- 효율적인 AWS 최적화\n- 글로벌 서비스의 MSA Architecture 구축 및 운영\n\n[자격요건]\n- 5년 이상의 AWS 클라우드 운영 경험 보유\n- AWS 리소스 최적화를 위한 비용 분석 및 리소스 구조 개선 경험\n- IaC 도구를 활용한 인프라 구성 및 운영 경험\n- CI/CD 파이프라인 설계/구현/배포 경험\n- 시스템 모니터링 및 로깅 도구 운영 경험\n- MSA 기반 서비스 배포 자동화 및 운영 경험\n- 글로벌 리전 기반 시스템 구성 및 운영 경험\n\n[우대사항]\n- AWS 클라우드 운영 관리 기술 자격증 보유\n- AWS 환경에서 다양한 서비스 운영 및 구축 경험\n- 대용량 트래픽 서비스 운영 경험\n- SRE(Site Reliability Engineering) 또는 플랫폼 엔지니어링 관련 경험\n- 모델 학습/추론 인프라 구성 경험 및 모델 버전 관리·CI/CD 구축 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48216317?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "기획운영파트",
+  "company": "교육지대",
+  "requirements_text": "대졸 이상\n기획 또는 운영 업무 경력 1년 이상(신입·대리급)\n원활한 커뮤니케이션 능력과 긍정적인 태도\n새로운 업무에 대한 거부감이 없고 학습 의지가 높은 분\n변화에 빠르게 적응하시는 분\n열해보면서 함께 성장해 나갈 분\n포트폴리오 필수",
+  "responsibilities_text": "AI 기반 교육 콘텐츠 서비스 기획 및 운영\n교육지대 AI 기반 교육 콘텐츠 서비스(WEB/MO/APP) 운영 지원 및 개선 사항 정리\n사용자 경험 및 서비스 운영 데이터 기반 서비스 기획 및 운영 고도화\n내부 시스템 효율화 및 자동화 프로세스 기획\n내부 공정 효율화를 위한 시스템 기획 및 요구사항 정의\nAI 기반 자동화 기능 테스트·검증을 통한 운영 프로세스 개선",
+  "raw_description": "포지션: 기획운영파트\n\n[담당업무]\n1. AI 기반 교육 콘텐츠 서비스 기획 및 운영\n- 교육지대 AI 기반 교육 콘텐츠 서비스(WEB/MO/APP) 운영 지원 및 개선 사항 정리\n- 사용자 경험 및 서비스 운영 데이터 기반 서비스 기획 및 운영 고도화\n\n2. 내부 시스템 효율화 및 자동화 프로세스 기획\n- 내부 공정 효율화를 위한 시스템 기획 및 요구사항 정의\n- AI 기반 자동화 기능 테스트·검증을 통한 운영 프로세스 개선\n\n[자격요건]\n- 학력: 대졸 이상\n- 경력: 기획 또는 운영 업무 경력 1년 이상(신입, 대리급)\n- 원활한 커뮤니케이션 능력과 긍정적인 태도를 가진 분\n- 새로운 업무에 대한 거부감이 없고 학습 의지가 높은 분\n- 변화에 빠르게 적응하시는 분\n- 열해보면서 함께 성장해 나갈 분\n- 포트폴리오 제출(필수)\n\n[우대사항]\n- AI 기반 서비스 또는 관련 툴 활용 경험\n- PC 응용프로그램 / WEB / MO / APP 환경에 대한 이해\n- 교육 서비스 업계 근무 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215686?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "IT 인프라 담당",
+  "company": "홈초이스",
+  "requirements_text": "Windows/Linux 서버 운영 경험\nAD(Active Directory) 관리 경험\n가상화 인프라(VMware, HCI 등) 구축 및 운영 경험\nIDC 네트워크(Switch, Firewall, VPN) 운영 및 트러블슈팅 경험\nIT 인프라 전반에 대한 이해\n보안 및 컴플라이언스(ISMS 등) 관련 업무 이해",
+  "responsibilities_text": "서버 및 시스템 운영 관리(Windows/Linux 서버 운영, AD 관리, OS 패치 및 백업 정책 수립)\nHCI/가상화 인프라(KT HCI, VMware 등) 구축 및 운영 최적화\n사내/IDC 네트워크(Switch, Firewall, VPN) 관리 및 트러블슈팅\n신규 솔루션 도입 및 노후 장비 교체, BMT·도입 기획 및 PM 수행\n레거시 시스템의 하이브리드 클라우드 전환 및 마이그레이션 수행\n벤더(Vendor) 관리 및 유지보수 업체 커뮤니케이션, SLA 관리\nIT 자산 및 라이선스 관리, 전산 비용 관리\n정보보안 운영, 내부 보안 정책 수립 및 접근 통제\nISMS 등 정보보호 인증 심사 및 내·외부 감사 대응",
+  "raw_description": "포지션: IT 인프라 담당\n\n[담당업무]\n1. 인프라 운영/관리(핵심 업무)\n- 서버 및 시스템 운영: Windows/Linux 서버 운영, AD 관리, OS 패치 및 백업 정책 수립\n- HCI/가상화 관리: KT HCI, VMware 등 가상화 환경 구축 및 운영 최적화\n- 네트워크 관리: 사내/IDC 네트워크(Switch, Firewall, VPN) 장비 관리 및 트러블슈팅\n\n2. 시스템 기획/도입\n- 신규 솔루션 도입\n- 노후 장비 교체 및 신규 솔루션(BMT, 도입 기획, PM 수행)\n- 레거시 시스템 하이브리드 클라우드 전환 및 마이그레이션 수행\n\n3. 유지보수 관리\n- 벤더(Vendor) 매니지먼트: 하드웨어/소프트웨어 유지보수 업체 소통, 이슈 트래킹 및 SLA 관리\n- IT 자산 관리: 서버 PC, 소프트웨어 라이선스 및 전산 비용 관리\n\n4. 보안 및 컴플라이언스\n- 정보보안 운영: 내부 보안 정책 수립, 접근 통제, 개인정보 보호 기술적 조치 이행\n- 감사 대응: ISMS 등 정보보호 인증 심사 지원 및 내/외부 감사 대응",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48214667?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "클라우드 인프라 운영 및 최적화",
+  "company": "인바디",
+  "requirements_text": "학사 이상\n컴퓨터공학 및 관련 전공 우대\n관련 경력 5년 이상 또는 그에 준하는 역량\nAzure 기반 인프라(App Service, Azure SQL, Front Door, Key Vault 등) 운영 경험\nCI/CD 파이프라인 경험(Azure DevOps, GitHub Actions 등)\n컨테이너 및 Kubernetes 경험(AKS 우대)\nIaC 도구 활용 경험(Terraform, Bicep, ARM, Ansible 등)\n.NET 및 SQL Server 이해(Query Store, Stored Procedure 최적화 등)\n모니터링 및 로깅 경험(Application Insights, Grafana, ELK 등)",
+  "responsibilities_text": "Azure 기반 글로벌 인프라 설계 및 운영(InBody, Web, InBody Touch 등)\n멀티 리전/글로벌 트래픽 분산 환경 운영 및 고가용성 설계\nCI/CD 배포 자동화 및 배포 전략(Blue-Green, Canary Release) 설계·운영\nAzure DevOps 파이프라인 관리 및 최적화\n모니터링 및 장애 대응(Application Insights, Azure Monitor, Query Store 등)\nTeams Adaptive Card, Logic App 등을 활용한 장애 알림 자동화\n보안 및 컴플라이언스 준수(GDPR, HIPAA, TLS/FW 정책, Key Vault 운영)\n개발팀과 협업하여 SaaS 제품(InBody Web/App/Touch) 개발·운영 지원\nAPI Gateway 운영 및 데이터 파이프라인 지원\n테스트/스테이징/운영 환경 자동화 및 효율화",
+  "raw_description": "직무소개:\n- 클라우드 인프라 운영 및 최적화\n- Azure 기반 글로벌 인프라 설계 및 운영\n- 멀티 리전/글로벌 트래픽 분산 환경 운영 및 고가용성 설계\n- CI/CD 배포 자동화\n- Azure DevOps 파이프라인 관리 및 최적화\n- 무중단 배포(Blue-Green, Canary Release) 환경 설계 및 운영\n- .NET 튜닝 및 SQL Server 기반 백엔드 성능 개선\n- 모니터링 및 장애 대응(Application Insights, Azure Monitor, Query Store)\n- 장애 탐지 및 알림 자동화(Teams Adaptive Card, Logic App)\n- 보안 및 컴플라이언스(GDPR, HIPAA, TLS/FW, Key Vault)\n- 개발 협업 및 SaaS 제품 개발/운영 지원\n- 데이터 파이프라인 및 API Gateway 운영 지원\n- 테스트/스테이징/운영 환경 자동화\n\n자격요건:\n- 학사 이상\n- 관련 경력 5년 이상 또는 그에 준하는 역량\n- Azure 인프라 운영 경험\n- CI/CD, 컨테이너, IaC 경험\n- .NET, SQL Server 이해\n\n우대사항:\n- 멀티 리전 SaaS 운영 경험\n- GDPR, ISO27001, HIPAA 대응 경험\n- Python/PowerShell 자동화 스크립트 경험\n- Azure SQL Hyperscale, Always Encrypted 경험\n- 글로벌 서비스 및 다국어 SaaS 운영 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48215379?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "DBA",
+  "company": "교보문고",
+  "requirements_text": "DBA 또는 DB 엔지니어 경험(프로젝트/교육 이수 등)\nRDBMS 논리적 설계 능력 및 구조 이해\n원활한 커뮤니케이션 능력\n학사(4년제) 이상 졸업자 또는 2026년 2월 졸업 예정자",
+  "responsibilities_text": "DBMS 설계·구축 및 운영 지원\nDBMS 모니터링, 장애 대응 및 성능 최적화 지원\nDBMS 복제 및 이중화 운영\nDBMS 계정 및 권한 관리 등 보안 관리\nDBMS 관리 표준 수립 및 데이터 모델링(ERD) 설계\n데이터베이스 운영 효율화 및 자동화 업무 수행\nPostgreSQL, MySQL DBMS 운영",
+  "raw_description": "조직: 교보문고 IT클라우드팀\n\n[업무내용]\n1. DBMS 설계·구축 및 운영 지원\n2. DBMS 모니터링, 장애 대응, 성능 최적화 지원\n3. DBMS 복제/이중화 운영\n4. DBMS 계정 및 권한 포함 보안 관리\n5. DBMS 관리 표준 수립 및 데이터 모델링(ERD) 설계\n6. 데이터베이스 운영 효율화 및 자동화 업무 수행\n7. 사용 DBMS: PostgreSQL, MySQL\n\n[자격요건]\n- DBA 또는 DB 엔지니어 경험\n- RDBMS 논리적 설계 능력 및 구조 이해\n- 원활한 커뮤니케이션 능력\n- 학사(4년제) 이상 또는 2026년 2월 졸업 예정자\n\n[우대사항]\n- PostgreSQL 또는 MySQL 구축 및 운영 경험\n- DBMS 성능 분석 및 SQL 최적화 가능자\n- 서비스에 적합한 DBMS 설계 또는 데이터 모델링(ERD) 경험\n- 데이터베이스 관련 교육 수료자\n- 관련 자격증 보유자(DAP, DASP, SQLD, SQLP, OCP 등)\n\n[비고]\n- 본인이 직접 참여한 프로젝트 또는 경력 포트폴리오 URL 제출(담당 업무 범위 및 역할 상세 기재)",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48221328?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "DBA / DB 엔지니어",
+  "company": "KG이니시스",
+  "requirements_text": "대졸 이상\n경력 1~5년\nRDBMS 중 최소 1개 이상 운영 경험(Oracle/Oracle Exadata, MySQL/MariaDB, SQL Server, PostgreSQL)\nDBMS 구조 및 동작 원리에 대한 이해\n팀 및 유관부서와 원활한 커뮤니케이션 능력",
+  "responsibilities_text": "DBMS 구축 및 운영 관리(Oracle, MySQL/MariaDB, SQL Server, Informix)\nDBMS 시스템 설계 및 운영 정책 수립(HA, DR, Backup/Recovery, Upgrade)\nDBMS 3rd-party 솔루션 활용 및 운영 관리(CDC, Oracle GoldenGate, Maxgauge, D'Amo 등)\n데이터베이스 표준화 및 형상 관리(Data 반영, DB 오브젝트/권한 관리)\n모니터링 기반 원인 분석 및 개선(SQL Tuning, DB Workload 관리)",
+  "raw_description": "[담당업무]\n- DBMS 구축 및 운영 관리(Oracle, MySQL/MariaDB, SQL Server, Informix)\n- DBMS 시스템 설계 및 정책 수립(HA, DR, Backup/Recovery, Upgrade)\n- DBMS 3rd party 솔루션 활용 및 운영관리(CDC, Oracle Golden Gate, Maxgauge, D'Amo 등)\n- 데이터베이스 표준화 및 형상 관리(Data 반영, DB 오브젝트/권한 관리)\n- 모니터링을 통한 원인 분석 및 개선(SQL Tuning, DB Workload 관리)\n\n[자격요건]\n- 학력: 대졸 이상\n- 경력: 1년 ~ 5년\n- RDBMS 중 최소 1개 이상 DB 활용 경험(Oracle/Oracle-Exadata, MySQL/MariaDB, SQL Server, PostgreSQL)\n\n[우대사항]\n- 2년 이상 대규모 DBMS 연관 업무 수행 경험(DB Engineer, DB Solution, SQL Tuner 등)\n- CDC 동기화 솔루션 및 관련 업무 경험\n- RDBMS 구조 및 동작 원리에 대한 이해와 설명 능력\n- 오픈소스 DB 경험(MySQL, MariaDB)\n- ELK Stack(Elasticsearch, Kibana, Beats, Logstash) 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48218336?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "정보보호 전략/기획",
+  "company": "현대건설",
+  "requirements_text": "정보보호 관련 전공자(학사 이상)\n유관 경력 3년 이상\n정보보호 정책·표준·프로세스에 대한 이해\n조직 내외 이해관계자와의 원활한 커뮤니케이션 능력",
+  "responsibilities_text": "정보보호 전략 및 중장기 기획 수립\n관리체계(ISMS 등) 및 표준·로드맵 수립\n정보보호 정책 및 지침 제·개정 및 관리\n신기술 도입 검토 및 보안 관점 영향 분석\n정보보호 수준 점검 및 개선 과제 수립·이행\n내·외부 보안 감사 및 인증(ISMS 등) 대응\n임직원 대상 정보보호 교육 및 모의훈련 기획·운영",
+  "raw_description": "[담당업무]\n- 정보보호 전략/기획 수립\n- 관리체계 및 표준, 로드맵 수립\n- 정책 및 지침 제정·관리\n- 신기술 도입 검토\n- 정보보호 수준 점검 및 개선\n- 내부 수준 점검 및 개선 과제 수립·이행\n- 내·외부 보안 감사 및 인증 대응\n- 임직원 대상 보안 교육 및 모의훈련 기획\n\n[자격요건]\n- 정보보호 관련 전공자(학사 이상)\n- 유관 경력 3년 이상\n\n[우대사항]\n- ISMS/ISMS-P, 개인정보 영향평가 경험\n- 정보보호 관련 프로젝트 기획/운영 경험\n- 관련 자격증 보유자(CISA, CISSP, CPPG, 정보보안기사 등)",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48196096?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "모의해킹 / 침투테스트",
+  "company": "현대건설",
+  "requirements_text": "정보보호 또는 컴퓨터공학 관련 전공자(학사 이상)\n웹, 모바일 앱, 시스템, 네트워크 대상 모의해킹 수행 가능자\n유관 경력 3년 이상\n취약점 분석 및 보안 이슈에 대한 이해\n조직 내외와 원활한 커뮤니케이션 능력",
+  "responsibilities_text": "웹, 모바일 앱, 시스템, 네트워크 대상 모의해킹 및 취약점 진단 수행\n신규 서비스 및 시스템 오픈 전 보안성 검토\n침해사고 대응 및 포렌식 지원\n신규 위협 탐지 및 대응\n최신 해킹 기법 및 공격 트렌드 연구\n공격자 관점의 Black Box 기반 침투 테스트 수행",
+  "raw_description": "[담당업무]\n- 인프라 모의해킹 및 최신 보안 위협 대응\n- 웹, 모바일 앱, 시스템, 네트워크 대상 모의해킹 및 취약점 진단\n- 신규 서비스 및 시스템 오픈 전 보안성 검토\n- 침해사고 대응 및 포렌식 지원\n- 신규 위협 탐지 및 대응\n- 최신 해킹 기법 및 공격 트렌드 연구 및 대응\n- 공격자 관점의 Black Box 기반 침투 테스트 수행\n\n[자격요건]\n- 정보보호/컴퓨터공학 관련 전공자(학사 이상)\n- 웹, 모바일 앱 모의해킹 수행 가능자\n- 유관 경력 3년 이상\n\n[우대사항]\n- 관련 자격증 보유자(OSCP, CEH, LPT 등)\n- 국내·외 해킹대회 수상 경력 또는\n- 버그바운티(Bug Bounty) 참여 경험\n- 취약점 분석 리포트 및 제출 경험",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48196096?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "네트워크 보안",
+  "company": "현대건설",
+  "requirements_text": "정보보호 또는 네트워크 관련 전공자(학사 이상)\n유관 경력 3년 이상\n네트워크 및 보안 장비에 대한 기본 이해\n보안 사고 대응 및 네트워크 트러블슈팅 역량\n유관 부서와 원활한 커뮤니케이션 능력",
+  "responsibilities_text": "네트워크 및 엔드포인트 보안 운영\n네트워크 보안 장비(방화벽, IPS/IDS, WAF 등) 운영 및 관리\n네트워크 보안 솔루션 설정 및 접근 제어 정책 관리\n네트워크 취약점 모니터링 및 이상 행위 탐지\n네트워크 침해사고 대응 및 대응 프로세스 수립·운영\n네트워크 취약점 진단 및 개선 활동 수행\n보안 기술 트렌드 대응 및 신규 보안 기술 도입",
+  "raw_description": "[담당업무]\n- 네트워크 및 엔드포인트 보안 운영\n- 네트워크 보안 장비(방화벽, IPS/IDS, WAF 등) 운영 및 관리\n- 네트워크 보안 솔루션 설정 및 접근 제어\n- 네트워크 취약점 모니터링 및 이상 행위 탐지\n- 네트워크 침해사고 대응\n- 침해사고 대응 프로세스 수립 및 운영\n- 네트워크 취약점 진단 및 개선\n- 보안 기술 트렌드 대응 및 신규 기술 도입\n\n[자격요건]\n- 정보보호/네트워크 관련 전공자(학사 이상)\n- 유관 경력 3년 이상\n\n[우대사항]\n- 주요 네트워크 장비(Cisco, Juniper 등) 설정 및 트러블슈팅 경험\n- 클라우드(AWS, Azure 등) 보안 운영 경험\n- 관련 자격증 보유자(CCNP Security, CISSP, Security+ 등)",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48196096?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "인프라 보안",
+  "company": "현대건설",
+  "requirements_text": "정보보호 또는 컴퓨터공학 관련 전공자(학사 이상)\n유관 경력 3년 이상\n서버·DB·시스템 인프라 전반에 대한 이해\n보안 로그 분석 및 이상 행위 탐지에 대한 기본 역량\n유관 부서와 원활한 커뮤니케이션 능력",
+  "responsibilities_text": "보안 인프라 설계 및 운영\n시스템 및 클라우드 아키텍처 설계·관리\n시스템 및 인프라 취약점 진단 및 보안성 강화(Server, DB 등)\n보안 로그 모니터링 및 이상 행위 탐지\n보안 사고 발생 시 장애 대응 및 복구 지원",
+  "raw_description": "[담당업무]\n- 보안 인프라 설계 및 운영\n- 시스템 및 클라우드 아키텍처 설계·관리\n- 시스템 및 인프라 취약점 진단 및 보안성 강화(Server, DB 등)\n- 보안 로그 모니터링 및 이상 행위 탐지\n- 장애 대응 및 복구 지원\n\n[자격요건]\n- 정보보호/컴퓨터공학 관련 전공자(학사 이상)\n- 유관 경력 3년 이상\n\n[우대사항]\n- 클라우드 환경 보안 설계·운영 경험\n- 클라우드 관련 자격증 보유자(AWS Certified Security, CCSK 등)",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48196096?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "IT/물리보안",
+  "company": "현대건설",
+  "requirements_text": "전공 무관(학사 이상)\n유관 경력 3년 이상\n정보보안 시스템 및 운영에 대한 이해\n보안 사고 대응 및 위험 관리 역량\n유관 부서와의 원활한 커뮤니케이션 능력",
+  "responsibilities_text": "IT 보안 및 물리 보안 운영\n정보보안 시스템 운영 및 관리\n침해사고 발생 시 대응 및 긴급/비상 상황 대응\n보안 정책 수립 및 보안 사고 예방·대응\n운영 시스템 보안성 검토\n기타 정보보안 관련 업무 수행",
+  "raw_description": "[담당업무]\n- IT 보안 및 물리 보안\n- 정보보안 시스템 운영\n- 침해사고 발생 대응 및 긴급/비상상황 대응\n- 보안 정책 및 보안사고 예방/대응\n- 운영시스템 보안성 검토\n- 기타 보안업무\n\n[자격요건]\n- 전공 무관(학사 이상)\n- 유관 경력 3년 이상\n\n[우대사항]\n- 보안업무(정보보안, 정보보호 인증) 경험자\n- ISMS, ISO27001 등 인증 대응 경험\n- 관련 자격증 보유자(CISA, CPPG, AWS, CSCS, 네트워크관리사, ISMS-P 등)",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48196096?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "Oracle 엔지니어 / Cloud 엔지니어",
+  "company": "굿어스데이터",
+  "requirements_text": "Oracle DB 운영 및 기술 지원에 대한 이해\nDB 성능 분석 및 튜닝 경험\n퍼블릭 클라우드 환경 이해(Naver Cloud, AWS, OCI 등)\n서버·네트워크·보안 등 클라우드 인프라 전반에 대한 이해\n온프레미스에서 클라우드로의 전환(Migration)에 대한 이해",
+  "responsibilities_text": "Oracle DB 기술 지원 및 장애 대응\nDB 운영 환경 분석, 성능 진단 및 최적화 작업 수행\n데이터베이스 구축, 마이그레이션 및 고도화 프로젝트 수행\nPublic Cloud(Naver Cloud, AWS, OCI 등) 환경 구축 및 운영\n서버·네트워크·보안 등 클라우드 인프라 설계\n온프레미스 시스템의 클라우드 전환(Migration) 지원",
+  "raw_description": "[기술 부문]\n\n[Oracle 엔지니어]\n- Oracle DB 기술 지원 및 장애 대응\n- DB 운영 환경 분석 및 성능 진단, 최적화 작업\n- 데이터베이스 구축, 마이그레이션 및 고도화 프로젝트 수행\n\n[Cloud 엔지니어]\n- Public Cloud(Naver Cloud, AWS, OCI 등) 환경 구축 및 운영\n- 서버/네트워크/보안 등 클라우드 인프라 설계\n- 온프레미스 → 클라우드 전환(Migration) 지원",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48192387?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "Business Analyst (SCM)",
+  "company": "우아한형제들",
+  "requirements_text": "경력 3~7년 이하\nSQL을 활용한 데이터 추출 및 분석 역량\nSCM 또는 유관 도메인 데이터 분석 경험\n지표 정의 및 데이터 기반 의사결정 역량\n유관 부서와의 원활한 커뮤니케이션 능력",
+  "responsibilities_text": "B마트 SCM 운영 고도화를 위한 데이터 분석 수행\nSQL 등을 활용한 데이터 추출 및 분석을 통해 인사이트 도출\n수요예측 모델링 및 해석을 통한 고도화, 운영 효율화 지원\n주요 지표 시각화를 통해 실시간 모니터링 체계 구축 및 운영",
+  "raw_description": "Business Analyst(SCM) 모집 (3~7년 이하)\n\n[담당업무]\n- B마트 SCM 운영 고도화를 위한 데이터 분석\n- SQL 등을 활용한 데이터 추출 및 분석 및 인사이트 도출\n- 수요예측 모델링 및 해석을 통한 고도화 및 운영 효율화 지원\n- 주요 지표 시각화를 통해 실시간 모니터링 체계 구축 및 운영",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/47594333?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "DB 엔지니어 / DB 운영",
+  "company": "중외정보기술",
+  "requirements_text": "학력 무관\nOracle DB 운영 경력자\nWindows, Linux 환경 경험자\nDB 기초 지식 보유자",
+  "responsibilities_text": "Oracle 데이터베이스 설치 및 운영\n보안솔루션(침입탐지, 접근제어, 백신, 안티스팸 등) 운영\nMS SQL, MySQL 및 오픈소스 DB 운영\n데이터베이스 성능 모니터링 및 튜닝\n데이터 백업 및 복구\n데이터베이스 보안관리\n장애 대응",
+  "raw_description": "(주)중외정보기술을 소개해요\n\n중외정보기술은 중외제약의 계열사로서 병·의원의 설립에서부터 경영에 필요한 모든 의료시스템 및 의료기기 설비구축, 교육컨설팅, 의료정보, 환자관리 서비스를 제공하는 통합의료시스템 구축을 주요사업으로 하고있습니다. 또한 헬스케어 산업분야에 대한 풍부한 경험을 바탕으로 고객의 비즈니스에서 가장 중요한것이 무엇이며, 그것을 강화하는데 가장 적합한 IT기술이 무엇인지 파악하고 있습니다. 향후 중외정보기술은 Healthcare 시장을 대표하는 기업으로 발돋움하기 위해 경쟁력을 갖춘 사업분야로 진출을 적극 추진할 계획입니다. 그리고 중외정보기술은 급변하는 고객의 비즈니스 환경 극복을 위한 보다 쉽고 빠른 IT인프라 구현기술력을 확보하고 있습니다. 기존의 축적된 지식의 체계화와 솔루션 활용성을 제고함으로써 높은 품질의 서비스를 적시에 공급하게 될 것입니다.\n\n이런 업무를 해요\n\n- Oracle 데이터베이스 설치·운영\n- 보안솔루션(침입탐지, 접근제어, 백신, 안티스팸 등) 운영\n- MS-SQL, My-SQL 및 오픈소스 DB 운영\n- 데이터베이스 성능 모니터링 및 튜닝\n- 데이터 백업 및 복구\n- 데이터베이스 보안관리\n- 장애대응\n\n이런 분들을 찾고 있어요\n\n- 학력 : 학력무관\n- Oracle DB 운영 경력자\n- Windows, Linux 환경 경험자\n- DB 기초지식 보유자\n\n이런 분이면 더 좋아요\n\n- 관련 학과 전공자\n- 커뮤니케이션 능력이 우수한자\n- 동일업무 유경험자\n\n이런 기술이 필요해요\n\nMariaDB, MSSQL, MySQL, Oracle, OracleDB, Window, Linux, DBMS, 인프라",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48223340?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "마케팅 데이터 분석 / BI",
+  "company": "세이브더칠드런",
+  "requirements_text": "2년 이상 5년 이하 BI 데이터분석 경험\n2년 이상의 데이터 시각화 및 리포팅 툴(Power BI, Tableau 등) 활용 분석 경험",
+  "responsibilities_text": "마케팅 데이터 BI 시각화 리포팅 및 관리\n데이터 추출 및 전처리\n마케팅 데이터 분석 및 인사이트 도출\nIT팀 및 관련 팀과의 소통 및 협업",
+  "raw_description": "마케팅 데이터 BI 시각화 리포팅 및 관리\n데이터 추출 및 전처리\n마케팅 데이터 분석 및 인사이트 도출\nIT팀 및 관련 팀과의 소통 및 협업\n\n필수 자격요건\n- 2년 이상 5년 이하 BI 데이터분석 경험이 있으신 분\n- 2년 이상의 데이터 시각화, 리포팅 툴(Power BI, Tableau 등) 활용 분석 경험이 있으신 분\n\n우대 자격요건\n- 데이터 기반 분석을 통해 문제를 정의하고 전략적 인사이트를 도출한 경험이 있으신 분\n- SQL, Python 등 데이터 처리 및 분석 도구 활용 경험이 있으신 분\n- 마케팅 분야 데이터 분석 또는 데이터 사이언스 실무 경험이 있으신 분\n- 통계분석, CLV(Customer Lifetime Value), Retention, Cohort Analysis 등 분석 방법론 이해 및 실무 적용 경험이 있으신 분",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48223188?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "퍼포먼스 마케팅 팀장",
+  "company": "디지털포토",
+  "requirements_text": "퍼포먼스 마케팅(검색·SNS·앱·디지털 광고) 경력 5년 이상\n데이터 기반 성과 분석 및 예산 운영 경험 보유\nGoogle Analytics, Firebase 등 데이터 분석 툴 활용 능력\nAppsFlyer, Airbridge 등 MMP 사용 경험\n온라인/모바일 커머스 업종 경험자\n문제 해결 능력과 성과 중심 사고방식",
+  "responsibilities_text": "자사 온라인몰 및 앱 기반 퍼포먼스 마케팅 총괄\n광고 전략 수립 및 실행(검색광고, 디스플레이 광고, SNS/동영상 광고, 앱 설치 캠페인 등)\n매체별 성과 분석 및 예산 효율 최적화(ROAS, CPA, LTV 관리)\n고객 여정 분석을 통한 퍼널 최적화(신규 고객 확보, 재구매/구매전환 증대 전략 설계)\nA/B 테스트, 리타겟팅, CRM/리텐션 마케팅 기획 및 실행\n광고 대행사 및 외부 파트너사 관리\n팀 빌딩 및 리더십 발휘(팀원 교육, 업무 분배, 성과 관리)\n경영진 보고용 퍼포먼스 리포트 작성 및 인사이트 제공",
+  "raw_description": "자사 온라인몰 및 앱 기반 퍼포먼스 마케팅 총괄\n광고 전략 수립 및 실행(검색광고, 디스플레이 광고, SNS/동영상 광고, 앱 설치 캠페인 등)\n매체별 성과 분석 및 예산 효율 최적화(ROAS, CPA, LTV 관리)\n고객 여정 분석을 통한 퍼널 최적화\n(신규 고객 확보, 재구매/구매전환 증대 전략 설계)\nA/B 테스트, 리타겟팅, CRM/리텐션 마케팅 기획 및 실행\n광고 대행사 및 외부 파트너사 관리\n팀 빌딩 및 리더십 발휘\n(팀원 교육, 업무 분배, 성과 관리)\n경영진 보고용 퍼포먼스 리포트 작성 및 인사이트 제공\n\n자격요건\n퍼포먼스 마케팅(검색·SNS·앱·디지털 광고) 경력 5년 이상\n데이터 기반 성과 분석 및 예산 운영 경험 보유\nGoogle Analytics, Firebase 등 데이터 분석 툴 활용 능력\nAppsFlyer, Airbridge 등 MMP 사용 경험\n온라인/모바일 커머스 업종 경험자\n문제 해결 능력과 성과 중심 사고방식\n\n우대사항\n사진/이미지/콘텐츠 기반 커머스 및 구독 서비스 경험\n자체 온라인몰, 앱 다운로드 활성화 캠페인 운영 경험\nSQL, Tableau, Power BI 등 데이터 시각화 툴 활용 가능자\n브랜드 마케팅과 퍼포먼스 마케팅을 함께 이해하고 균형 잡힌 전략 제시 가능자",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48208791?Oem_Code=C1&rPageCode=TL"
+}, 
+{
+  "job_role": "정보보안부장 (계약직, 2급)",
+  "company": "한국자산관리공사",
+  "responsibilities_text": "정보보안 및 개인정보보호 등 직무기술서에 따른 업무 수행",
+  "requirements_text": "다음 3가지(일반자격·경력) 요건을 모두 갖춘 사람\n\n[일반요건]\n- 「국가공무원법」 제33조 및 공사 「인사규정」 제15조에 의한 채용 결격사유가 없는 자\n- 공무원 및 공공기관 근무경력자(개방형 계약직 등으로 채용된 경력은 제외)의 경우 퇴직 후 3년 이상 경과한 자\n- 연령, 성별, 학력 등 제한 없음(단, 연령의 경우 만 60세 미만)\n- 채용 확정 후 즉시 근무 가능한 자\n\n[자격요건]\n- 다음 학위 또는 자격증 중 1개 이상 소지자\n  · 정보보호 또는 정보기술 분야 석사 또는 박사 학위\n  · 국가기술자격법 제8조의2제2항에 따른 정보관리기술사, 컴퓨터시스템응용기술사 또는 정보보안기사\n  · 「전자정부법」 제27조제15호에 따른 감리원\n  · 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제47조제6항에 따른 정보보호 관리체계 인증심사원\n  · 「자격기본법」에 따라 공인을 받은 정보보호전문가(Specialist for Information Security)\n  · 국제정보시스템감사통제협회(ISACA)의 정보시스템감사사(CISA)\n  · 국제정보시스템보안자격협회(ISC)²의 정보시스템보안전문가(CISSP)\n\n[경력요건]\n- 정보보안 관련 업무를 수행한 경력이 있는 사람\n- 정보보안 관련 부서장 또는 책임자 직위를 재직한 경력이 있는 사람\n  (부서장·팀장 등으로서 복수의 직원을 실질적으로 관리한 경우에 한함)",
+  "raw_description": "직급: 2급(계약직)\n직위: 정보보안부장\n담당업무: 정보보안 및 개인정보보호 등 (직무기술서)\n채용규모: 1명\n근무지역: 부산\n\n지원자격\n□ 다음 3가지(일반자격·경력) 요건을 모두 갖춘 사람\n\n[일반요건]\n· 「국가공무원법」 제33조 및 공사 「인사규정」 제15조에 의한 채용 결격사유가 없는 자\n· 공무원 및 공공기관 근무경력자(개방형 계약직 등으로 채용된 경력은 제외)의 경우 퇴직 후 3년 이상 경과한 자\n· 연령, 성별, 학력 등 제한 없음(단, 연령의 경우 만 60세 미만)\n· 채용 확정 후 즉시 근무 가능한 자\n\n[자격요건]\n· 다음 학위 또는 자격증 중 1개 이상 소지자\n  - 정보보호 또는 정보기술 분야 석사 또는 박사 학위\n  - 국가기술자격법 제8조의2제2항에 따른 정보관리기술사, 컴퓨터시스템응용기술사 또는 정보보안기사\n  - 「전자정부법」 제27조제15호에 따른 감리원\n  - 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제47조제6항에 따른 정보보호 관리체계 인증심사원\n  - 「자격기본법」에 따라 공인을 받은 정보보호전문가(Specialist for Information Security)\n  - 국제정보시스템감사통제협회(ISACA)의 정보시스템감사사(CISA)\n  - 국제정보시스템보안자격협회(ISC)²의 정보시스템보안전문가(CISSP)\n\n[경력요건]\n· 정보보안 관련 업무를 수행한 경력이 있는 사람\n· 정보보안 관련 부서장 또는 책임자 직위를 재직한 경력이 있는 사람\n  * 부서장·팀장 등으로서 복수의 직원을 실질적으로 관리한 경우에 한함\n\n※ 지원자격요건에 해당하는 경력 및 학위·자격 취득(유효 등)의 기준일은 입사지원 마감일(2025. ○○. ○○.) 기준으로 함",
+  "job_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48200024?Oem_Code=C1&rPageCode=TL"
+}
+]

@@ -357,10 +357,10 @@ QUESTION_PRIORITY = ["interests", "preferred_work", "languages", "major", "proje
 
 def decide_mode(intent: str, filled_count: int, flags: Flags) -> str:
     if intent == "GREET":
-        return "ASK_PERMISSION"  # ✅ ONBOARD 말고 이걸로
+        return "ASK_PERMISSION"  
 
     if intent == "ASK_RECOMMEND" and filled_count < 2:
-        return "COUNSEL"   # 또는 "COLLECT_FOR_RECO" 같은 새 모드 만들어도 됨
+        return "COUNSEL"   
 
     if filled_count >= 3 and flags.reco_consent:
         return "RECOMMEND"
@@ -434,7 +434,7 @@ def get_chat_response(
     profile = get_profile(session_id)
     flags = get_flags(session_id)
 
-    # intent 먼저 잡기(동의 처리에 참고)
+
     intent = detect_intent(user_input)
     if not selected_role:
         selected_role = get_selected_role(session_id)
@@ -523,8 +523,6 @@ def get_chat_response(
 
         source_urls = format_source_urls(urls)
 
-        # "2~5개 강제"를 프롬프트에서 하고 싶다 했으니, 여기서도 최소 2개가 안 나오면 표시하지 않게 할지 선택 가능
-        # 일단은 "있으면 출력"으로 두고, 강제는 프롬프트 규칙에 맡김
         source_urls = format_source_urls(urls)
 
     # 7) 대화용 LLM 호출

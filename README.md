@@ -1,4 +1,4 @@
-# IT Career Path Chatbot (RAG 기반 IT 직무 추천 챗봇)
+
 
 본 프로젝트는 **IT 전공자들의 진로 선택을 돕는 AI 기반 챗봇 서비스**입니다.  
 사용자의 학업·프로젝트 경험·기술 스택을 분석하여 적합한 IT 직무를 추천하고,  
@@ -30,6 +30,9 @@ IT 전공은 진출 분야가 매우 넓지만,
 ### 4️⃣ Streamlit 인터페이스
 - 간단한 UI를 통해 직무 질문/추천 결과 확인
 - 추천 직무와 필요한 스킬 로드맵을 시각적으로 제공
+
+<img width="5607" height="1772" alt="image" src="https://github.com/user-attachments/assets/8836261a-e421-4a68-9751-15f12826cbe4" />
+
 
 ## 📁 폴더 구조
 

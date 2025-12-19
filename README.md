@@ -135,20 +135,7 @@ streamlit run streamlit_app.py
 ---
 <img width="5607" height="1772" alt="image" src="https://github.com/user-attachments/assets/0cdaf036-915e-48d8-85af-458632154992" />
 
-## 커스터마이징 포인트
 
-### 1) 직무 라벨 정규화 규칙(중요)
-`src/db/ingest_jobs.py`의 `ROLE_RULES`에 정규식 패턴을 추가/수정하면,  
-공고가 어떤 canonical role(`backend`, `data_engineer` 등)로 분류될지 조정할 수 있습니다.
-
-### 2) 검색 품질(Chunk 크기/섹션)
-- chunk 크기: `src/db/ingest_jobs.py > chunk_documents()`
-- 섹션 선택: `src/app/rag.py > DEFAULT_SECTIONS`
-
-### 3) 대화 톤/질문 방식
-- `src/prompts/prompt.py`에서 “질문 1개만” 같은 리듬을 프롬프트로 강제합니다.
-
----
 
 ## 자주 겪는 문제 (Troubleshooting)
 
@@ -163,10 +150,4 @@ streamlit run streamlit_app.py
   - `python -m src.db.ingest_jobs`로 벡터DB를 먼저 생성했는지 확인
   - `src/db/chroma_jobs/`가 존재하는지 확인
 
----
 
-## 앞으로 추가하면 좋은 것들(아이디어)
-- 공고 수집 크롤러/스케줄러(주기적 업데이트) 모듈 분리
-- “합격 스펙/후기” 데이터셋을 별도 컬렉션으로 저장 후 멀티-리트리버 구성
-- 추천 로직의 “confidence” 스코어링 및 설명가능성(왜 추천했는지 근거) 강화
-- Streamlit에서 직무/스킬 로드맵 시각화(태그 클라우드, 체크리스트, 타임라인 등)

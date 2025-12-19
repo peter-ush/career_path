@@ -24,7 +24,7 @@ from .rag import (
     format_source_urls,      # ✅ 추가
 )
 
-from .prompts import DIALOGUE_SYSTEM_PROMPT, EXTRACT_SYSTEM_PROMPT
+from ..prompts.prompt import DIALOGUE_SYSTEM_PROMPT, EXTRACT_SYSTEM_PROMPT
 
 load_dotenv()
 
@@ -226,6 +226,11 @@ GREET_PATTERNS = [
 
 def detect_intent(text: str) -> str:
     t = (text or "").strip().lower()
+
+    # ✅ "안녕 요즘..." 처럼 뒤에 말이 붙어도 GREET로 잡기
+    if re.match(r"^(안녕|안녕하세요|ㅎㅇ|하이|hi|hello|hey)\b", t):
+        return "GREET"
+
     if any(re.match(p, t) for p in GREET_PATTERNS):
         return "GREET"
     if any(k in t for k in ASK_RECOMMEND_KEYWORDS):
@@ -284,7 +289,7 @@ def profile_brief(profile: UserProfile) -> str:
 
 # =========================
 # 4) 대화용 체인 + 추출용 체인
-# =========================
+# =========================temp
 chat_llm = ChatOpenAI(model="gpt-4o", temperature=0.6)
 
 dialogue_prompt = ChatPromptTemplate.from_messages(
@@ -356,7 +361,10 @@ QUESTION_PRIORITY = ["interests", "preferred_work", "languages", "major", "proje
 
 def decide_mode(intent: str, filled_count: int, flags: Flags) -> str:
     if intent == "GREET":
-        return "ONBOARD"
+        return "ASK_PERMISSION"  # ✅ ONBOARD 말고 이걸로
+
+    if intent == "ASK_RECOMMEND" and filled_count < 2:
+        return "COUNSEL"   # 또는 "COLLECT_FOR_RECO" 같은 새 모드 만들어도 됨
 
     if filled_count >= 3 and flags.reco_consent:
         return "RECOMMEND"
@@ -368,6 +376,7 @@ def decide_mode(intent: str, filled_count: int, flags: Flags) -> str:
         return "ASK_RECOMMEND_FLOW"
 
     return "COUNSEL"
+
 
 
 # =========================
@@ -416,6 +425,7 @@ def get_chat_response(
     role_name: str = "",
     retrieved_docs: str = "",
     selected_role: str = "",
+    
 ) -> str:
     """
     - (1) 추출 체인으로 프로필 업데이트(조용히)
@@ -472,7 +482,13 @@ def get_chat_response(
 
     # 4) 상태 계산
     filled_count, missing = compute_filled_and_missing(profile)
+
+    print(f"[DEBUG] session={session_id} intent={intent} filled_count={filled_count} missing={missing}", flush=True)
+
     mode = decide_mode(intent, filled_count, flags)
+    if mode == "ASK_PERMISSION" and (not flags.pending_reco_permission):
+        flags.pending_reco_permission = True
+
     if DEBUG_STATE:
         print(f"[DEBUG] intent={intent} mode={mode} filled_count={filled_count} missing={missing} selected_role={selected_role} reco={flags.reco_consent} gap={flags.gap_consent}")
 
@@ -562,7 +578,7 @@ def get_chat_response(
 
     _flag_store[session_id] = flags
     return assistant_text
-
+    
 
 def create_session_id() -> str:
     return str(uuid.uuid4())

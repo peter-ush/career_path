@@ -322,6 +322,7 @@ def demo_query():
         print(f"\n[{i}] {d.metadata.get('company')} | {d.metadata.get('job_role_raw')} | {d.metadata.get('section')}")
         print(d.page_content[:300], "...")
 
+print("[INGEST persist_dir]", PERSIST_DIR)
 
 if __name__ == "__main__":
     ingest()

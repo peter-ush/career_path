@@ -1,4 +1,3 @@
-# src/app/chatbot.py
 from __future__ import annotations
 
 import json
@@ -14,14 +13,14 @@ from pydantic import BaseModel, Field
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
-from langchain_community.chat_message_histories import ChatMessageHistory  # ✅ 중요: memory 에러 방지
+from langchain_community.chat_message_histories import ChatMessageHistory  
 from langchain.output_parsers import PydanticOutputParser
 
 from .rag import (
     retrieve_job_chunks,
     format_chunks_for_prompt,
-    extract_source_urls,     # ✅ 추가
-    format_source_urls,      # ✅ 추가
+    extract_source_urls,     
+    format_source_urls,      
 )
 
 from ..prompts.prompt import DIALOGUE_SYSTEM_PROMPT, EXTRACT_SYSTEM_PROMPT
@@ -219,16 +218,13 @@ ASK_GAP_KEYWORDS = [
 ]
 GREET_PATTERNS = [
     r"^안녕[!.~ ]*$",
-    r"^안녕하세요[!.~ ]*$",
-    r"^(ㅎㅇ|하이|hi|hello|hey)[!.~ ]*$",
+    r"^안녕하세요[!.~ ]*$"
 ]
 
 
 def detect_intent(text: str) -> str:
     t = (text or "").strip().lower()
-
-    # ✅ "안녕 요즘..." 처럼 뒤에 말이 붙어도 GREET로 잡기
-    if re.match(r"^(안녕|안녕하세요|ㅎㅇ|하이|hi|hello|hey)\b", t):
+    if re.match(r"^안녕", t):
         return "GREET"
 
     if any(re.match(p, t) for p in GREET_PATTERNS):
@@ -440,7 +436,6 @@ def get_chat_response(
 
     # intent 먼저 잡기(동의 처리에 참고)
     intent = detect_intent(user_input)
-    # ✅ (NEW) selected_role 먼저 결정/저장 (동의 처리보다 앞에서!)
     if not selected_role:
         selected_role = get_selected_role(session_id)
 
@@ -523,13 +518,12 @@ def get_chat_response(
 
         # ✅ RetrievedChunk.url 기반으로 URL 추출 (rag.py 함수 사용)
         urls = extract_source_urls(chunks, max_urls=5)
-        # ✅ (NEW) fallback: 혹시 url metadata가 비었으면 retrieved_docs에서라도 다시 추출
         if (not urls) and retrieved_docs:
             urls = re.findall(r"- url:\s*(https?://\S+)", retrieved_docs)[:5]
 
         source_urls = format_source_urls(urls)
 
-        # ✅ "2~5개 강제"를 프롬프트에서 하고 싶다 했으니, 여기서도 최소 2개가 안 나오면 표시하지 않게 할지 선택 가능
+        # "2~5개 강제"를 프롬프트에서 하고 싶다 했으니, 여기서도 최소 2개가 안 나오면 표시하지 않게 할지 선택 가능
         # 일단은 "있으면 출력"으로 두고, 강제는 프롬프트 규칙에 맡김
         source_urls = format_source_urls(urls)
 

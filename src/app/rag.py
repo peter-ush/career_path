@@ -1,4 +1,3 @@
-# src/app/rag.py
 from __future__ import annotations
 
 from dataclasses import dataclass
@@ -59,7 +58,6 @@ def retrieve_job_chunks(
     sections = sections or DEFAULT_SECTIONS
     vs = get_vectorstore(collection_name=collection_name)
 
-    # ✅ 넉넉히 가져온 뒤 post-filter (role/section 필터 안정성 최우선)
     raw_docs = vs.similarity_search(query, k=max(k * 4, 20))
 
     out: List[RetrievedChunk] = []
@@ -104,7 +102,7 @@ def format_chunks_for_prompt(chunks: List[RetrievedChunk], max_chars_each: int =
     return "\n\n".join(lines)
 
 
-# (선택) url만 따로 뽑고 싶으면 chatbot.py에서 쓰거나, 여기서 쓰면 됨
+#url만 따로 뽑기.
 def extract_source_urls(chunks: List[RetrievedChunk], max_urls: int = 5) -> List[str]:
     seen = set()
     out: List[str] = []

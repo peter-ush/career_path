@@ -1,4 +1,4 @@
-# src/app/db/ingest_jobs.py
+
 from __future__ import annotations
 import shutil
 import json
@@ -8,29 +8,15 @@ from pathlib import Path
 from typing import Any, Dict, List, Tuple, Optional
 from dotenv import load_dotenv
 
-load_dotenv()
+import os
 
-# LangChain imports (버전 차이 대비)
-try:
-    from langchain_openai import OpenAIEmbeddings
-except Exception as e:
-    raise ImportError("langchain_openai가 필요합니다. pip install langchain-openai") from e
-
-try:
-    # 최신 권장
-    from langchain_text_splitters import RecursiveCharacterTextSplitter
-except Exception:
-    # 구버전 fallback
-    from langchain.text_splitter import RecursiveCharacterTextSplitter  # type: ignore
-
-try:
-    from langchain_core.documents import Document
-except Exception:
-    from langchain.schema import Document  # type: ignore
+from langchain_openai import OpenAIEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_core.documents import Document
 
 
 from langchain_chroma import Chroma 
-
+load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent
 JOBS_PATH = BASE_DIR / "jobs.json"
@@ -41,7 +27,6 @@ COLLECTION_NAME = "jobs_sections_v1"
 # -------------------------
 # 1) job_role 정규화
 # -------------------------
-# 너희 프로젝트에 맞게 계속 늘려가면 됨
 ROLE_RULES: List[Tuple[str, str]] = [
     (r"(데이터\s*엔지니어|data\s*engineer|dw|etl|airflow|spark|hadoop)", "data_engineer"),
     (r"(데이터\s*분석|data\s*analyst|bi\s*analyst|analytics)", "data_analyst"),
@@ -167,7 +152,6 @@ def job_to_section_docs(job: Dict[str, Any]) -> List[Document]:
     add("responsibilities", responsibilities)
     add("requirements", requirements)
     add("preferred", preferred)
-    # raw는 너무 길 수 있어 optional인데, 있으면 추가(검색 recall용)
     add("raw", raw)
 
     return docs
@@ -207,12 +191,12 @@ def ingest() -> None:
 
     jobs = load_jobs(JOBS_PATH)
 
-    # ✅ A) DB 완전 초기화(가장 안전)
+    # A) DB 완전 초기화(가장 안전)
     if PERSIST_DIR.exists():
         shutil.rmtree(PERSIST_DIR)
     PERSIST_DIR.mkdir(parents=True, exist_ok=True)
 
-    # ✅ B) jobs.json 중복 제거 (job_id 기준)
+    #  B) jobs.json 중복 제거 (job_id 기준)
     seen = set()
     deduped_jobs = []
     dup_count = 0
@@ -247,7 +231,6 @@ def ingest() -> None:
         idx = d.metadata.get("chunk_index", 0)
         ids.append(f"{jid}:{sec}:{idx}")
 
-    # ✅ C) 이번 실행 내에서도 혹시 남아있을 중복 id 방지(안전장치)
     uniq = {}
     for doc, _id in zip(chunked_docs, ids):
         if _id not in uniq:
@@ -271,7 +254,7 @@ def ingest() -> None:
 
 
 # -------------------------
-# 5) Retriever 예시 (role filter)
+# 5) Retriever 예시 
 # -------------------------
 def get_retriever(role: str, k: int = 6, sections: Optional[List[str]] = None):
     """
@@ -285,45 +268,15 @@ def get_retriever(role: str, k: int = 6, sections: Optional[List[str]] = None):
         embedding_function=embeddings,
     )
 
-    # Chroma metadata filter: 배열 필터가 환경에 따라 다를 수 있어서,
-    # safest는 job_roles를 문자열로 하나 더 만들어두는 건데(roles_joined),
-    # 지금은 우선 raw filter로 시도.
-    # 만약 배열 필터가 안 먹으면 -> roles_joined로 바꿔주면 됨(아래 참고).
     where: Dict[str, Any] = {}
     if sections:
-        # Chroma where에서 $in 지원 여부가 구현/버전에 따라 다름
-        # 안 되면 retriever 후에 section으로 post-filter 하자.
+
         where["section"] = {"$in": sections}
 
-    # job_roles 배열에 role이 포함되는 필터가 안 먹는 경우가 많아서,
-    # 일단 후보를 더 뽑고 post-filter하는 방식도 추천.
     retriever = vs.as_retriever(search_kwargs={"k": max(k * 3, 10), "filter": where})
     return retriever
 
 
-def demo_query():
-    role = "backend"
-    query = "요즘 백엔드 공고에서 요구하는 기술 스택이 뭐야? 특히 AWS랑 쿠버네티스 관련"
-    retriever = get_retriever(role=role, k=6, sections=["requirements", "preferred", "responsibilities"])
-    docs = retriever.invoke(query)
-
-    # post-filter: role 포함만 남기기
-    filtered = []
-    for d in docs:
-        roles_joined = (d.metadata.get("roles_joined") or "")
-        roles = roles_joined.split("|") if roles_joined else []
-        if role in roles:
-            filtered.append(d)
-    filtered = filtered[:6]
-
-
-    print(f"\n=== DEMO ({role}) ===")
-    for i, d in enumerate(filtered, 1):
-        print(f"\n[{i}] {d.metadata.get('company')} | {d.metadata.get('job_role_raw')} | {d.metadata.get('section')}")
-        print(d.page_content[:300], "...")
-
-print("[INGEST persist_dir]", PERSIST_DIR)
 
 if __name__ == "__main__":
     ingest()
-    # demo_query()

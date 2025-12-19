@@ -48,7 +48,7 @@
 
 ---
 
-## 폴더 구조 (현재 develop 기준)
+## 폴더 구조 
 
 ```text
 career_path/

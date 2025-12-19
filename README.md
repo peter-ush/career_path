@@ -106,7 +106,7 @@ pip install streamlit
 # 또는 requirements.txt에 streamlit==버전 추가
 ```
 
-### 3) (선택) 벡터DB 재생성 (jobs.json → Chroma)
+### 3) 벡터DB 재생성 (jobs.json → Chroma)
 `src/db/jobs.json`을 수정했거나, 새로 적재하고 싶을 때 실행합니다.
 
 ```bash

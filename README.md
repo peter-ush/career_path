@@ -75,6 +75,9 @@ career_path/
 
 ---
 
+<img width="5607" height="1772" alt="image" src="https://github.com/user-attachments/assets/4493ddaa-2b8e-40c3-af9e-6967ce897c52" />
+
+
 ## 빠른 실행 (Quickstart)
 
 ### 0) 준비 사항
